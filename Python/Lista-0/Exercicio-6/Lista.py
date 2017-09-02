@@ -4,20 +4,19 @@ def main():
 
     f = Lista()
     f.inserir("Angular",0)
-    # f.inserir("C++",1)
-    # f.inserir("Java",1)
-    # f.inserir("JavaScript",5)
-    # f.inserir("Python",0)
-    # f.inserirFim("NodeJs")
+    f.inserir("C++",1)
+    f.inserir("Java",1)
+    f.inserir("JavaScript",5)
+    f.inserir("Python",0)
+    f.inserirFim("NodeJs")
 
     print f.getAll()
-    # f.remover("Python")
-    # f.remover("NodeJs")
-    # f.remover("JavaScript")
+    f.remover("Python")
+    f.remover("NodeJs")
+    f.remover("JavaScript")
     print f.get("C++")
     print f.getIndex("C++")
-
-    # print f.elementos
+    print f.getAll()
 
 class Lista(object):
 

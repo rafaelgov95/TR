@@ -1,7 +1,7 @@
 # -*- coding: UTF-8 -*-
 
 def main():
-    # testes da classe Fila
+
     f = Pilha()
     f.inserir("Angular")
     f.inserir("C++")
