@@ -6,8 +6,11 @@ def main():
     root = Arvore(0)
     root.add(Arvore(2))
     root.add(Arvore(2))
-    print root.get(2).key
+    root.remove(2)
 
+
+def pt ():
+    pass
 
 if __name__ == "__main__": # Chamada Principal da Aplicação.
     main()

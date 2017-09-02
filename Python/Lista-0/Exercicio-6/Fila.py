@@ -1,25 +1,27 @@
 def main():
     # testes da classe Fila
     f = Fila(10)
-    f.insere("sal")
-    f.insere("alho")
-    f.insere("cebola")
-    f.insere("pimenta")
-    print(f.remove())
-    print(f.remove())
-    print(f.remove())
-    print(f.remove())
+    f.inserir("Angular")
+    f.inserir("C++")
+    f.inserir("Java")
+    f.inserir("JavaScript")
+    f.inserir("Python")
+    print f.elementos
+    print(f.remover())
+    print(f.remover())
+    print(f.remover())
+    print(f.remover())
 
 class Fila:
     def __init__(self, max):
-        self.elemento = [0]*max # cria uma fila com max elementos, todos zero
+        self.elementos = [0]*max # cria uma fila com max elementos, todos zero
         self.ini = 0
         self.fim  = 0
-    def insere(self, ele):
-        self.elemento[self.fim] = ele
+    def inserir(self, ele):
+        self.elementos[self.fim] = ele
         self.fim += 1
-    def remove(self):
-        obj = self.elemento[self.ini]
+    def remover(self):
+        obj = self.elementos[self.ini]
         self.ini += 1
         return obj
 

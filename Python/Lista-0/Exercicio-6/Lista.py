@@ -1,26 +1,30 @@
 def main():
 
-    f = Lista(10)
-    f.insere("sal")
-    f.insere("alho")
-    f.insere("cebola")
-    f.insere("pimenta")
-    print(f.remove())
-    print(f.remove())
-    print(f.remove())
-    print(f.remove())
+    f = Lista()
+    f.inserir("sal")
+    f.inserir("alho",0)
+    f.inserir("cebola",0)
+    f.inserir("pimenta")
 
-class Lista:
-    def __init__(self, max):
-        self.elemento = [0]*max # cria uma fila com max elementos, todos zero
-        self.ini = 0
-        self.fim  = 0
-    def insere(self, ele):
-        self.elemento[self.fim] = ele
-        self.fim += 1
+    print f.dados
+
+class Lista(object):
+
+    def __init__(self):
+        self.dados = []
+
+    def inserirFim(self, elemento):
+        self.dados.insert(len(self.dados),elemento)
+
+    def inserir(self,elemento,index=None):
+        if index is None:
+            self.dados.append(elemento)
+        else:
+            self.dados.insert(index, elemento)
+
     def remove(self):
-        obj = self.elemento[self.ini]
-        self.ini += 1
-        return obj
+        if not self.vazia():
+            return self.dados.pop(-1)
+
 
 main()

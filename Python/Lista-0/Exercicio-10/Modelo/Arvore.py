@@ -35,17 +35,6 @@ class Arvore (object):
             print "O Numero ",node.key," já foi adicionado !!"
             return
 
-
-
-
-
-
-
-
-
-
-
-
     def remove(self, key):
         if key < self.key:
             self.left = self.left.remove(key)
