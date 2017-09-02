@@ -1,11 +1,11 @@
 def main():
     # testes da classe Fila
     f = Pilha()
-    f.empilha("Angular")
-    f.empilha("C++")
-    f.empilha("Java")
-    f.empilha("JavaScript")
-    f.empilha("Python")
+    f.inserir("Angular")
+    f.inserir("C++")
+    f.inserir("Java")
+    f.inserir("JavaScript")
+    f.inserir("Python")
     print(f.desempilha())
     print(f.desempilha())
     print(f.desempilha())

@@ -1,30 +1,36 @@
 def main():
 
     f = Lista()
-    f.inserir("sal")
-    f.inserir("alho",0)
-    f.inserir("cebola",0)
-    f.inserir("pimenta")
+    f.inserir("Angular",0)
+    f.inserir("C++",1)
+    f.inserir("Java",1)
+    f.inserir("JavaScript",5)
+    f.inserir("Python",0)
+    f.inserirFim("NodeJs")
 
-    print f.dados
+    print f.elementos
+    f.remove("JavaScript")
+    print f.elementos
 
 class Lista(object):
 
     def __init__(self):
-        self.dados = []
+        self.elementos = []
 
     def inserirFim(self, elemento):
-        self.dados.insert(len(self.dados),elemento)
+        self.elementos.insert(len(self.elementos),elemento)
 
     def inserir(self,elemento,index=None):
         if index is None:
-            self.dados.append(elemento)
+            self.elementos.append(elemento)
         else:
-            self.dados.insert(index, elemento)
+            self.elementos.insert(index, elemento)
 
-    def remove(self):
-        if not self.vazia():
-            return self.dados.pop(-1)
+    vazia = lambda self: self.dados == 0
+
+    def remove(self,elemento):
+        if not self.vazia:
+            return self.elementos.remove(elemento)
 
 
 main()
