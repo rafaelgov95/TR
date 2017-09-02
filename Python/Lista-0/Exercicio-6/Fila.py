@@ -1,3 +1,5 @@
+# -*- coding: UTF-8 -*-
+
 def main():
     # testes da classe Fila
     f = Fila(10)
