@@ -6,7 +6,7 @@ def main():
     root = Arvore(0)
     root.add(Arvore(2))
     root.add(Arvore(2))
-    root.remove(2)
+    print root.remove(2).key
 
 
 def pt ():
