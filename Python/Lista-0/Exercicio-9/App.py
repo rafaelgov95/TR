@@ -2,6 +2,5 @@
 
 from ModulosPythons.Data import *
 
-# from ModulosPythons.Data import
-
-print agora
+print agora() # Esse aqui e um teste
+print bitcoin() # Funçao do modulo para saber o bitcoin :D
