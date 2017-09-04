@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.7.31)  3 SEP 2017 14:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.7.31)  4 SEP 2017 08:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -391,22 +391,24 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./lista.aux) ) 
 Here is how much of TeX's memory you used:
- 1198 strings out of 493013
- 12435 string characters out of 6135682
- 70788 words of memory out of 5000000
- 4785 multiletter control sequences out of 15000+600000
- 7918 words of font info for 22 fonts, out of 8000000 for 9000
+ 1202 strings out of 493013
+ 12479 string characters out of 6135682
+ 71788 words of memory out of 5000000
+ 4787 multiletter control sequences out of 15000+600000
+ 9378 words of font info for 24 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 23i,6n,23p,182b,187s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 23i,6n,23p,269b,187s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share
 /texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texmf/fonts/type1/p
-ublic/cm-super/sfrm1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1
-200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1440.pfb></usr/share/
-texmf/fonts/type1/public/cm-super/sfrm2074.pfb>
-Output written on lista.pdf (1 page, 48095 bytes).
+ublic/cm-super/sfbx1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1
+000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/
+texmf/fonts/type1/public/cm-super/sfrm1440.pfb></usr/share/texmf/fonts/type1/pu
+blic/cm-super/sfrm2074.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti12
+00.pfb>
+Output written on lista.pdf (1 page, 90213 bytes).
 PDF statistics:
- 25 PDF objects out of 1000 (max. 8388607)
- 17 compressed objects within 1 object stream
+ 33 PDF objects out of 1000 (max. 8388607)
+ 23 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
