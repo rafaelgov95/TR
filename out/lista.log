@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.7.31)  3 SEP 2017 14:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.7.31)  4 SEP 2017 18:25
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -388,10 +388,16 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <14.4> on input line 14.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 14.
- [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (/home/rafael/Documentos/T
-R/out/lista.aux) ) 
+Overfull \hbox (24.28882pt too wide) in paragraph at lines 26--27
+[]\T1/cmr/m/n/12 http://www.revistabw.com.br/revistabw/importando-modulos-em-py
+thon/ 
+ []
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+(/home/rafael/Documentos/TR/out/lista.aux) ) 
 Here is how much of TeX's memory you used:
  1199 strings out of 493013
  12648 string characters out of 6135682
@@ -400,11 +406,12 @@ Here is how much of TeX's memory you used:
  7918 words of font info for 22 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  23i,6n,23p,182b,187s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}</
-usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf/font
-s/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/cm-su
-per/sfrm1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm2074.pfb>
-Output written on /home/rafael/Documentos/TR/out/lista.pdf (1 page, 48095 bytes
+{/usr/share/texmf/fonts/enc/dvips/c
+m-super/cm-super-t1.enc}</usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.
+pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texm
+f/fonts/type1/public/cm-super/sfrm1440.pfb></usr/share/texmf/fonts/type1/public
+/cm-super/sfrm2074.pfb>
+Output written on /home/rafael/Documentos/TR/out/lista.pdf (1 page, 49837 bytes
 ).
 PDF statistics:
  25 PDF objects out of 1000 (max. 8388607)

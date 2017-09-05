@@ -36,6 +36,7 @@ class Arvore (object):
             return
 
     def remove(self, key):
+
         if key < self.key:
             self.left = self.left.remove(key)
         elif key > self.key:
@@ -50,7 +51,7 @@ class Arvore (object):
             tmp = self.right._min()
             self.key, self.value = tmp.key, tmp.value
             self.right._remove_min()
-        return self
+        return self.key
 
     def _min(self):
         """Retorna o menor elemento da subárvore que tem self como raiz.
