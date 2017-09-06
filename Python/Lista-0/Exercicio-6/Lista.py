@@ -1,17 +1,4 @@
-
-def main():
-    # testes da classe Fila
-    f = Lista()
-    f.insereInicio("Angular")
-    f.insereInicio("C++")
-    f.insereInicio("Java")
-    f.insereInicio("JavaScript")
-    f.insereInicio("Python")
-    f.percorreListaEncadeada()
-    f.removeInicio()
-    print "\nUm valor foi removido Removido \n"
-    f.percorreListaEncadeada()
-
+# -*- coding: UTF-8
 
 class Lista:
 
@@ -49,5 +36,15 @@ class Lista:
       return temporario.getValor()
 
 
-
-main()
+if __name__ == "__main__":
+    # testes da classe Lista
+    f = Lista()
+    f.insereInicio("Angular")
+    f.insereInicio("C++")
+    f.insereInicio("Java")
+    f.insereInicio("JavaScript")
+    f.insereInicio("Python")
+    f.percorreListaEncadeada()
+    f.removeInicio()
+    print "\nUm valor foi removido Removido \n"
+    f.percorreListaEncadeada()
