@@ -1,19 +1,5 @@
 # -*- coding: UTF-8 -*-
 
-def main():
-
-    f = Pilha()
-    f.inserir("Angular")
-    f.inserir("C++")
-    f.inserir("Java")
-    f.inserir("JavaScript")
-    f.inserir("Python")
-    print(f.desempilha())
-    print(f.desempilha())
-    print(f.desempilha())
-    print(f.desempilha())
-
-
 class Pilha(object):
     def __init__(self):
         self.dados = []
@@ -28,4 +14,15 @@ class Pilha(object):
     def vazia(self):
         return len(self.dados) == 0
 
-main()
+if __name__ == "__main__":
+
+    f = Pilha()
+    f.inserir("Angular")
+    f.inserir("C++")
+    f.inserir("Java")
+    f.inserir("JavaScript")
+    f.inserir("Python")
+    print(f.desempilha())
+    print(f.desempilha())
+    print(f.desempilha())
+    print(f.desempilha())
