@@ -1,8 +1,10 @@
 # -*- coding: UTF-8 -*-
 
-arquivo = open('arquivo.txt', 'r')
-primeira_linha = arquivo.readline()
-segunda_linha  = arquivo.readline()
-terceira_linha = arquivo.readline()
-# etc...
-arquivo.close()
+def AcessarArquivo():
+    arquivo = open('Numeros', 'r')
+    NewList= ''
+    for line in arquivo:
+         NewList+=(line.strip())
+    arquivo.close()
+    r = map(int,NewList.split(';'))
+    return r

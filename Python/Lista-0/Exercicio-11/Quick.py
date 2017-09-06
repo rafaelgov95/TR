@@ -40,11 +40,3 @@ def quicksort(list, start, end):
         quicksort(list, split+1, end)
    else:
         return
-
-if __name__=="__main__":
-    import sys
-    list = [2,3,4,5,6,1,2,4,6,7,8]
-    start = 0
-    end = len(list)-1
-    quicksort(list,start,end)
-    print ' '.join(map(str,list))
