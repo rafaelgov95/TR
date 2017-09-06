@@ -1,67 +1,53 @@
-# -*- coding: UTF-8 -*-
 
 def main():
-
+    # testes da classe Fila
     f = Lista()
-    f.inserir("Angular",0)
-    f.inserir("C++",1)
-    f.inserir("Java",1)
-    f.inserir("JavaScript",5)
-    f.inserir("Python",0)
-    f.inserirFim("NodeJs")
+    f.insereInicio("Angular")
+    f.insereInicio("C++")
+    f.insereInicio("Java")
+    f.insereInicio("JavaScript")
+    f.insereInicio("Python")
+    f.percorreListaEncadeada()
+    f.removeInicio()
+    print "\nUm valor foi removido Removido \n"
+    f.percorreListaEncadeada()
 
-    print f.getAll()
-    f.remover("Python")
-    f.remover("NodeJs")
-    f.remover("JavaScript")
-    print f.get("C++")
-    print f.getIndex("C++")
-    print f.getAll()
 
-class Lista(object):
+class Lista:
 
-    def __init__(self):
-        self.elementos = []
+   def __init__(self,valor=None):
+       self.valor = None
+       self.proximo = None
 
-    inserirFim =  (lambda self, elemento: self.elementos.insert(len(self.elementos),elemento))
+   getValor = lambda self : self.valor
+   getProximo = lambda self : self.proximo
 
-    def inserir(self,elemento,index=None):
-        if index is None:
-            self.elementos.append(elemento)
-        else:
-            self.elementos.insert(index, elemento)
+   def setValorOrbital(self, valor):
+      self.valor = valor
 
-    vazia = lambda self: len(self.elementos) == 0
+   def setProximo(self, proximo):
+      self.proximo = proximo
 
-    def get(self,elemento):
-        if not self.vazia():
-            try:
-                result = self.elementos[self.elementos.index(elemento)]
-                return result
-            except ValueError:
-                return("Valor Não Existe")
-        else:
-            return ("Lista Vazia")
 
-    def getAll(self):
-        if not self.vazia():
-                return self.elementos
-        else:
-            return ("Lista Vazia")
+   def insereInicio(self, valor):
+      if self.valor:
+          temporario = Lista()
+          temporario.setProximo(self.getProximo())
+          temporario.setValorOrbital(valor)
+          self.setProximo(temporario)
+      self.valor=valor
 
-    def getIndex(self,elemento):
-        if not self.vazia():
-            try:
-                result =self.elementos.index(elemento)
-                return result
-            except ValueError:
-                return("Valor Não Existe")
-        else:
-            return ("Lista Vazia")
+   def percorreListaEncadeada(self):
+      while(self != None):
+         print self.getValor()
+         self = self.getProximo()
 
-    def remover(self,elemento):
-        if not self.vazia():
-            return self.elementos.remove(elemento)
+
+   def removeInicio(self):
+      temporario = self.getProximo()
+      self.setProximo(temporario.getProximo())
+      return temporario.getValor()
+
 
 
 main()
