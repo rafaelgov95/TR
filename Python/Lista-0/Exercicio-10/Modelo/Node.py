@@ -23,6 +23,7 @@ class Node:
         else:
             return self.key
 
+
     def remove(self, key):
         if key < self.key:
             self.left = self.left.remove(key)
@@ -30,15 +31,16 @@ class Node:
             self.right = self.right.remove(key)
         else:
             # encontramos o elemento, então vamos removê-lo!
-            if self.right is None:
-                return self.left
-            if self.left is None:
-                return self.right
-            # ao invés de remover o nó, copiamos os valores do nó substituto
-            tmp = self.right._min()
-            self.key = tmp.key
-            self.right._remove_min()
-            return self
+            if self.key == key:
+
+                if self.right is None and self.left is None:
+                    tmp = self
+                    self = None
+                    pass
+                if self.right is None:
+                    self.left._min()
+            return tmp
+
 
     def _min(self):
         """Retorna o menor elemento da subárvore que tem self como raiz.

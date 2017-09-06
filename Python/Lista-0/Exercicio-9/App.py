@@ -1,6 +1,6 @@
 # -*- coding: UTF-8 -*-
 
-import ModulosPythons.Data
+import ModulosPythons.Servicos
 
-print  ModulosPythons.Data.agora() # Esse aqui e um teste
-print ("Valor do Bitcoin R$:'%.4f' " % ModulosPythons.Data.bitcoin())# Valor do bitcoin em uma funcao no modulo :D
+print  ModulosPythons.Servicos.agora() # Esse aqui e um teste
+print ("Valor do Bitcoin R$:'%.4f' " % ModulosPythons.Servicos.bitcoin())# Valor do bitcoin em uma funcao no modulo :D
