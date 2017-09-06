@@ -14,7 +14,6 @@ class Fila:
         return obj
 
 if __name__ == "__main__":
-
     # testes da classe Fila
     f = Fila(10)
     f.inserir("Angular")

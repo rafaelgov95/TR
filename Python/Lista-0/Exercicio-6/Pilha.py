@@ -15,13 +15,13 @@ class Pilha(object):
         return len(self.dados) == 0
 
 if __name__ == "__main__":
-
+# teste da class Pilha
     f = Pilha()
-    f.inserir("Angular")
-    f.inserir("C++")
-    f.inserir("Java")
-    f.inserir("JavaScript")
-    f.inserir("Python")
+    f.empilha("Angular")
+    f.empilha("C++")
+    f.empilha("Java")
+    f.empilha("JavaScript")
+    f.empilha("Python")
     print(f.desempilha())
     print(f.desempilha())
     print(f.desempilha())

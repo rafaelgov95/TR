@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7f05a2ca-a239-44fc-9c10-edaff2ecfe12" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python/Lista-0/Exercicio-3/Calculadora.py" afterPath="$PROJECT_DIR$/Python/Lista-0/Exercicio-3/Calculadora.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python/Lista-0/Exercicio-6/Fila.py" afterPath="$PROJECT_DIR$/Python/Lista-0/Exercicio-6/Fila.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python/Lista-0/Exercicio-6/Pilha.py" afterPath="$PROJECT_DIR$/Python/Lista-0/Exercicio-6/Pilha.py" />
     </list>
@@ -18,7 +19,7 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/TR$App__1_.coverage" NAME="App (1) Coverage Results" MODIFIED="1504596664907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Lista-0/Exercicio-9" />
-    <SUITE FILE_PATH="coverage/TR$Pilha.coverage" NAME="Pilha Coverage Results" MODIFIED="1504386925128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Lista-0/Exercicio-6" />
+    <SUITE FILE_PATH="coverage/TR$Pilha.coverage" NAME="Pilha Coverage Results" MODIFIED="1504717055345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Lista-0/Exercicio-6" />
     <SUITE FILE_PATH="coverage/TR$4_7_1_Default.coverage" NAME="4.7.1.Default Coverage Results" MODIFIED="1504187944967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Lista-0/Exercicio-4" />
     <SUITE FILE_PATH="coverage/TR$4_7_5_Lambda.coverage" NAME="4.7.5.Lambda Coverage Results" MODIFIED="1504191732957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Lista-0/Exercicio-4" />
     <SUITE FILE_PATH="coverage/TR$4_7_2_Chave_Valor.coverage" NAME="4.7.2.Chave-Valor Coverage Results" MODIFIED="1504191575042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Lista-0/Exercicio-4" />
@@ -33,12 +34,12 @@
     <SUITE FILE_PATH="coverage/TR$No.coverage" NAME="No Coverage Results" MODIFIED="1504373627057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Lista-0/Exercicio-10" />
     <SUITE FILE_PATH="coverage/TR$Data.coverage" NAME="Data Coverage Results" MODIFIED="1504563239979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Lista-0/Exercicio-9/ModulosPythons" />
     <SUITE FILE_PATH="coverage/TR$Dicionario.coverage" NAME="Dicionario Coverage Results" MODIFIED="1504677099629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Lista-0/Exercicio-7" />
-    <SUITE FILE_PATH="coverage/TR$Calculadora.coverage" NAME="Calculadora Coverage Results" MODIFIED="1504675260438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Lista-0/Exercicio-3" />
+    <SUITE FILE_PATH="coverage/TR$Calculadora.coverage" NAME="Calculadora Coverage Results" MODIFIED="1504717136629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Lista-0/Exercicio-3" />
     <SUITE FILE_PATH="coverage/TR$5_6_Laco.coverage" NAME="5.6.Laco Coverage Results" MODIFIED="1504463495956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Lista-0/Exercicio-8" />
     <SUITE FILE_PATH="coverage/TR$Exemplo.coverage" NAME="Exemplo Coverage Results" MODIFIED="1504673579086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Lista-0/Exercicio-4" />
     <SUITE FILE_PATH="coverage/TR$Arvore__1_.coverage" NAME="Arvore (1) Coverage Results" MODIFIED="1504377773149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Lista-0/Exercicio-10/Controller" />
-    <SUITE FILE_PATH="coverage/TR$Fila.coverage" NAME="Fila Coverage Results" MODIFIED="1504387870252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Lista-0/Exercicio-6" />
-    <SUITE FILE_PATH="coverage/TR$Lista__1_.coverage" NAME="Lista (1) Coverage Results" MODIFIED="1504716913403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Lista-0/Exercicio-6" />
+    <SUITE FILE_PATH="coverage/TR$Fila.coverage" NAME="Fila Coverage Results" MODIFIED="1504717073821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Lista-0/Exercicio-6" />
+    <SUITE FILE_PATH="coverage/TR$Lista__1_.coverage" NAME="Lista (1) Coverage Results" MODIFIED="1504717070470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Lista-0/Exercicio-6" />
     <SUITE FILE_PATH="coverage/TR$App.coverage" NAME="App Coverage Results" MODIFIED="1504679692237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Lista-0/Exercicio-9" />
     <SUITE FILE_PATH="coverage/TR$4_6_Funcoes.coverage" NAME="4.6.Funcoes Coverage Results" MODIFIED="1504186566652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Lista-0/Exercicio-4" />
     <SUITE FILE_PATH="coverage/TR$4_4_Break.coverage" NAME="4.4.Break Coverage Results" MODIFIED="1504185242274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Lista-0/Exercicio-4" />
@@ -49,21 +50,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Calculadora.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Calculadora.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-3/Calculadora.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
-              <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+            <state relative-caret-position="90">
+              <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Fila.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Fila.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-6/Fila.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
-              <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+            <state relative-caret-position="306">
+              <caret line="17" column="16" lean-forward="true" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -72,8 +73,8 @@
       <file leaf-file-name="Lista.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-6/Lista.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="401">
-              <caret line="42" column="13" lean-forward="true" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
+            <state relative-caret-position="257">
+              <caret line="34" column="24" lean-forward="false" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -82,8 +83,8 @@
       <file leaf-file-name="Pilha.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-6/Pilha.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
-              <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+            <state relative-caret-position="486">
+              <caret line="27" column="25" lean-forward="true" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -188,10 +189,10 @@
         <option value="$PROJECT_DIR$/Python/Lista-0/Exercicio-11/Numeros" />
         <option value="$PROJECT_DIR$/Python/Lista-0/Exercicio-11/Arquivo.py" />
         <option value="$PROJECT_DIR$/Python/Lista-0/Exercicio-9/lista.tex" />
-        <option value="$PROJECT_DIR$/Python/Lista-0/Exercicio-3/Calculadora.py" />
         <option value="$PROJECT_DIR$/Python/Lista-0/Exercicio-6/Lista.py" />
-        <option value="$PROJECT_DIR$/Python/Lista-0/Exercicio-6/Pilha.py" />
         <option value="$PROJECT_DIR$/Python/Lista-0/Exercicio-6/Fila.py" />
+        <option value="$PROJECT_DIR$/Python/Lista-0/Exercicio-6/Pilha.py" />
+        <option value="$PROJECT_DIR$/Python/Lista-0/Exercicio-3/Calculadora.py" />
       </list>
     </option>
   </component>
@@ -253,6 +254,13 @@
               <item name="TR" type="462c0819:PsiDirectoryNode" />
               <item name="Python" type="462c0819:PsiDirectoryNode" />
               <item name="Lista-0" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercicio-4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TR" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TR" type="462c0819:PsiDirectoryNode" />
+              <item name="Python" type="462c0819:PsiDirectoryNode" />
+              <item name="Lista-0" type="462c0819:PsiDirectoryNode" />
               <item name="Exercicio-6" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -298,7 +306,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Lista (1)">
+  <component name="RunManager" selected="Python.Calculadora">
     <configuration name="App" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -317,20 +325,38 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="Arquivo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Calculadora" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/Lista-0/Exercicio-11" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/Lista-0/Exercicio-3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="TR" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/Lista-0/Exercicio-11/Arquivo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/Lista-0/Exercicio-3/Calculadora.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="Fila" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/Lista-0/Exercicio-6" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="TR" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/Lista-0/Exercicio-6/Fila.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -353,38 +379,20 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="Lista" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Pilha" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/Lista-0/Exercicio-7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/Lista-0/Exercicio-6" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="TR" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/Lista-0/Exercicio-7/Lista.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="Main" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/Lista-0/Exercicio-11" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="TR" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/Lista-0/Exercicio-11/Main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/Lista-0/Exercicio-6/Pilha.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -410,19 +418,19 @@
     <list size="7">
       <item index="0" class="java.lang.String" itemvalue="LaTeX.lista (1)" />
       <item index="1" class="java.lang.String" itemvalue="LaTeX.lista" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Lista" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Arquivo" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Main" />
-      <item index="5" class="java.lang.String" itemvalue="Python.App" />
-      <item index="6" class="java.lang.String" itemvalue="Python.Lista (1)" />
+      <item index="2" class="java.lang.String" itemvalue="Python.App" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Lista (1)" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Pilha" />
+      <item index="5" class="java.lang.String" itemvalue="Python.Fila" />
+      <item index="6" class="java.lang.String" itemvalue="Python.Calculadora" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Lista (1)" />
-        <item index="1" class="java.lang.String" itemvalue="Python.App" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Main" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Arquivo" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Lista" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Calculadora" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Fila" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Lista (1)" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Pilha" />
+        <item index="4" class="java.lang.String" itemvalue="Python.App" />
       </list>
     </recent_temporary>
   </component>
@@ -487,9 +495,9 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32857144" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33956045" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33956045" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42967033" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -613,6 +621,11 @@
           <line>29</line>
           <option name="timeStamp" value="79" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Python/Lista-0/Exercicio-3/Calculadora.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -621,7 +634,7 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="97" />
+      <option name="time" value="98" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -840,14 +853,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-3/Calculadora.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-11/Numeros">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -874,24 +879,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-6/Pilha.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        <state relative-caret-position="486">
+          <caret line="27" column="25" lean-forward="true" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-6/Lista.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="401">
-          <caret line="42" column="13" lean-forward="true" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
+        <state relative-caret-position="257">
+          <caret line="34" column="24" lean-forward="false" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-6/Fila.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        <state relative-caret-position="306">
+          <caret line="17" column="16" lean-forward="true" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-3/Calculadora.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
           <folding />
         </state>
       </provider>

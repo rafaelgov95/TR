@@ -3,15 +3,15 @@
 def main():
     while(1):
         menuInicial()
-        print "Resultado: "+ str(sevira(input('Digite um das operações acima !\n')))
+        print "\nResultado: "+ str(sevira(input('Digite um das operações acima !\n')))+"\n"
 
-def lerNumero():
+def lerNumeros():
     valor1 = input('Digite primeiro valor !\n')
     valor2 = input('Digite segundo valor !\n')
     return valor2 ,valor1
 
 def sevira (operacao,):
-    lista = lerNumero()
+    lista = lerNumeros()
     if(operacao==1):
         return lista[1] + lista[0]
     elif (operacao == 2):
