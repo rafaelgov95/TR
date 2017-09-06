@@ -9,7 +9,7 @@ class Lista:
    getValor = lambda self : self.valor
    getProximo = lambda self : self.proximo
 
-   def setValorOrbital(self, valor):
+   def setValor(self, valor):
       self.valor = valor
 
    def setProximo(self, proximo):
@@ -17,18 +17,20 @@ class Lista:
 
 
    def insereInicio(self, valor):
-      if self.valor:
+      if self:
           temporario = Lista()
           temporario.setProximo(self.getProximo())
-          temporario.setValorOrbital(valor)
+          temporario.setValor(valor)
           self.setProximo(temporario)
-      self.valor=valor
+      else:
+          self=Lista()
 
    def percorreListaEncadeada(self):
-      while(self != None):
-         print self.getValor()
-         self = self.getProximo()
-
+      temp = self
+      while(temp):
+          if temp.getValor:
+              print"aqui", temp.getValor()
+              temp = temp.getProximo()
 
    def removeInicio(self):
       temporario = self.getProximo()
@@ -38,13 +40,13 @@ class Lista:
 
 if __name__ == "__main__":
     # testes da classe Lista
-    f = Lista()
+    f = Lista("Angular2")
     f.insereInicio("Angular")
     f.insereInicio("C++")
-    f.insereInicio("Java")
-    f.insereInicio("JavaScript")
-    f.insereInicio("Python")
+    # f.insereInicio("Java")
+    # f.insereInicio("JavaScript")
+    # f.insereInicio("Python")
     f.percorreListaEncadeada()
-    f.removeInicio()
-    print "\nUm valor foi removido Removido \n"
-    f.percorreListaEncadeada()
+    # f.removeInicio()
+    # print "\nUm valor foi removido Removido \n"
+    # f.percorreListaEncadeada()

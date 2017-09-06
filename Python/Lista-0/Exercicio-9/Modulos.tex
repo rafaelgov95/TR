@@ -18,11 +18,14 @@
 O que são módulos? Para que servem? Apresente um exemplo de aplicação desta
 abordagem de programação.
 
-Cada arquivo com um código Python é chamado de módulo e pode ser chamado por outros arquivos, o que permite a modularização e
-reutilização de código. Desta forma, trechos de código que podem ser reutilizados diversas vezes em um mesmo código pode ser colocado em
-um módulo separado e chamado todas as vezes que for necessário.
+Cada .py é chamado de módulo e pode ser chamado por outros arquivos, permitindo a modularização e reutilização de código, a partir de trechos de código que podem ser reutilizados diversas vezes em um mesmo código pode ser colocado em um módulo separado e chamado todas as vezes que for necessário.
+
+Quando começamos a programar em python pensamos que a linguagem fará todo o serviço de identificação de módulos e submódulos.Acreditamos que ao utilizar o simples comando \textit{import meu-modulo}, o Python vai procurar pelo sistema de arquivos, todos submódulos presentes no pacote, e os importar. Isso pode demorar muito e a importação de submódulos pode ocasionar efeitos colaterais que somente deveriam ocorrer quando o submódulo é explicitamente importado.
+
+A solução é simples, o autor do pacote fornecer um índice explícito do pacote ficando a cargo do autor do pacote manter esta lista atualizada. Neste caso, o comando import pode ajudar pois ele usa a seguinte convenção: se o arquivo \_\_init\_\_.py do pacote define uma lista chamada \_\_all\_\_, então esta lista indica os nomes dos módulos a serem importados quando o comando from pacote import * é acionado. Vale ressaltar que isso é válido apenas no caso onde queremos importar todos os módulos.
+
+Em determinados momentos de nossa aplicação precisamos criar pacotes de modulos para organizar nossa aplicação em Python não e diferente para podermos utilizar um modulo em um pacote de modulos devemos utilizar o comando \textit{from meu-pacote import modulo}, podemos passar * após o import para importar todos modulos desse pacote.
 
 
-http://www.revistabw.com.br/revistabw/importando-modulos-em-python/
 \end{enumerate}
 \end{document}
