@@ -1,9 +1,13 @@
 # -*- coding: UTF-8 -*-
 #Autor: Rafael Viana
+
 def main():
     while(1):
-        menuInicial()
+        print menuInicial()
         print "\nResultado: "+ str(sevira(input('Digite um das operações acima !\n')))+"\n"
+
+
+menuInicial = lambda: "Bem Vindo a Mega Calculadora em Python\n1 - Adição\n2 - Subtração\n3 - Divisão\n4 - Multiplicação\n"
 
 def lerNumeros():
     valor1 = input('Digite primeiro valor !\n')
@@ -20,11 +24,6 @@ def sevira (operacao,):
         return lista[1] / lista[0]
     elif (operacao == 4):
         return lista[1] * lista[0]
-
-
-def menuInicial():
-    print "Bem Vindo a Mega Calculadora em Python\n1 - Adição\n2 - Subtração\n3 - Divisão\n4 - Multiplicação\n"
-
 
 main()
 
