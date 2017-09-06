@@ -4,7 +4,7 @@ def main():
     while(1):
         menuInicial()
         print "Resultado: "+ str(sevira(input('Digite um das operações acima !\n')))
-
+fa
 def lerNumero():
     valor1 = input('Digite primeiro valor !\n')
     valor2 = input('Digite segundo valor !\n')

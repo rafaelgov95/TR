@@ -5,7 +5,7 @@ def main():
     f = Fila(10)
     f.inserir("Angular")
     f.inserir("C++")
-    f.inserir("Java")
+    f.inserir("Java")ss
     f.inserir("JavaScript")
     f.inserir("Python")
     print f.elementos
