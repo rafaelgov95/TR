@@ -8,5 +8,7 @@ if __name__ == "__main__":
     f.insereInicio("C++")
     f.inserirNoFim("Python")
     f.insereInicio("Rafael O Rei")
-    f.inserir("Rafael",10)
+    f.inserir("Rafael",3)
+    f.remover("Rafael")
+    f.remover()
     f.percorreListaEncadeada()

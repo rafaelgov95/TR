@@ -50,8 +50,21 @@ class Lista(object):
               print temp.getValor()
               temp = temp.getProximo()
 
-   def removeInicio(self):
-      temporario = self.getProximo()
-      self.setProximo(temporario.getProximo())
-      return temporario.getValor()
+   def remover(self,valor=None):
+        if(valor):
+            if (valor == self.root.getValor()):
+                self.root = No()
+            else:
+                temp = self.root
+                while(temp.getProximo().getValor()!=valor):
+                    temp = temp.getProximo()
+                tempo = temp.getProximo().getProximo()
+                temp.setProximo(tempo)
+
+
+        else:
+            temp = self.root.getProximo()
+            valor = self.root.getValor()
+            self.root = temp
+            return valor
 
