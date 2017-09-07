@@ -9,6 +9,28 @@ class Node(object):
         self.left = left
         self.right = right
 
+    def posordem(self):
+        if self.left:
+            self.left.posordem()
+        if self.right:
+            self.right.preordem()
+        print self.key
+
+    def inordem(self):
+
+        if self.left:
+            self.left.inordem()
+        print self.key
+        if self.right:
+            self.right.inordem()
+
+    def preordem(self):
+        print self.key
+        if self.left:
+           self.left.preordem()
+        if self.right:
+           self.right.preordem()
+
     def get(self, key):
         if self.key == key:
             return self
@@ -53,25 +75,3 @@ class Node(object):
         self.left = self.left._deleteMin()
         return self
 
-
-    def posordem(self):
-        if self.left:
-            self.left.posordem()
-        if self.right:
-            self.right.preordem()
-        print self.key
-
-    def inordem(self):
-
-        if self.left:
-            self.left.inordem()
-        print self.key
-        if self.right:
-            self.right.inordem()
-
-    def preordem(self):
-        print self.key
-        if self.left:
-           self.left.preordem()
-        if self.right:
-           self.right.preordem()
