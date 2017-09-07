@@ -1,5 +1,5 @@
 # -*- encoding:utf-8 -*-
-from __future__ import print_function
+# from __future__ import print_function
 
 
 class Node(object):
@@ -53,18 +53,40 @@ class Node(object):
         self.left = self.left._deleteMin()
         return self
 
-    def traverse(self, visit, order='pre'):
+    # def traverse(self, visit, order='pre'):
+    #
+    #     if order == 'pre':
+    #         visit(self.key)
+    #     if self.left is not None:
+    #         self.left.traverse(visit, order)
+    #     if order == 'in':
+    #         visit(self.key)
+    #     if self.right is not None:
+    #         self.right.traverse(visit, order)
+    #     if order == 'pos':
+    #         visit(self.key)
+    #
+    # def percorre(self, order='pre'):
+    #     self.traverse(print, order)
 
-        if order == 'pre':
-            visit(self.key)
-        if self.left is not None:
-            self.left.traverse(visit, order)
-        if order == 'in':
-            visit(self.key)
-        if self.right is not None:
-            self.right.traverse(visit, order)
-        if order == 'pos':
-            visit(self.key)
+    def posordem(self):
+        if self.left:
+            self.left.posordem()
+        if self.right:
+            self.right.preordem()
+        print self.key
 
-    def percorre(self, order='pre'):
-        self.traverse(print, order)
+    def inordem(self):
+
+        if self.left:
+            self.left.inordem()
+        print self.key
+        if self.right:
+            self.right.inordem()
+
+    def preordem(self):
+        print self.key
+        if self.left:
+           self.left.preordem()
+        if self.right:
+           self.right.preordem()

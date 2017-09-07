@@ -11,4 +11,9 @@ if __name__ == '__main__':
     tree.add('C')
     tree.add('H')
     tree.add('M')
-    tree.percorre("pos")
+    print "IN - ORDEM"
+    tree.inordem()
+    print "PRE - ORDEM"
+    tree.preordem()
+    print "POS -ORDEM"
+    tree.posordem()
