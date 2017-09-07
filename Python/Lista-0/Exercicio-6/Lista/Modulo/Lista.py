@@ -45,8 +45,8 @@ class Lista(object):
 
    def percorreListaEncadeada(self):
       temp = self.root
-      while(temp):
-          if temp.getValor:
+
+      while(temp and temp.getValor()):
               print temp.getValor()
               temp = temp.getProximo()
 
@@ -56,15 +56,20 @@ class Lista(object):
                 self.root = No()
             else:
                 temp = self.root
-                while(temp.getProximo().getValor()!=valor):
+                while(temp.getProximo().getValor()!=valor and temp.getProximo().getValor()):
                     temp = temp.getProximo()
-                tempo = temp.getProximo().getProximo()
-                temp.setProximo(tempo)
+                if(temp.getProximo().getValor()):
+                    tempo = temp.getProximo().getProximo()
+                    temp.setProximo(tempo)
+                    return True
+                else:
+                    return False
         else:
             temp = self.root.getProximo()
             valor = self.root.getValor()
             self.root = temp
             return valor
+
 
    def get(self, valor=None):
        if (self.root):
@@ -73,7 +78,7 @@ class Lista(object):
            while (temp.getValor() != valor):
                cont+=1
                temp = temp.getProximo()
-           print cont
+           return cont
 
    def clean(self):
        self.root = No()

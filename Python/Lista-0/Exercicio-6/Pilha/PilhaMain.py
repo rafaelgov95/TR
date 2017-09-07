@@ -1,5 +1,7 @@
 # -*- coding: UTF-8 -*-
 from Modulo.Pilha import Pilha
+
+
 if __name__ == "__main__":
 # teste da class Pilha
     f = Pilha()

@@ -1,6 +1,7 @@
 # -*- coding: UTF-8 -*-
 
-class Pilha(object):
+
+class Pilha:
     def __init__(self):
         self.dados = []
 
