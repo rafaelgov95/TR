@@ -24,6 +24,25 @@ class Lista(object):
       else:
           self.root = No(valor)
 
+   def inserir(self, valor,index=None):
+       if self.root:
+           if(index==0):
+               self.insereInicio(valor)
+           else:
+               temp = self.root
+               cont = 0
+               while(temp.getProximo() and cont<index-1):
+                   cont+=1
+                   temp = temp.getProximo()
+               if(temp.getProximo()):
+                    tempo = No(valor)
+                    tempo.setProximo(temp.getProximo())
+                    temp.setProximo(tempo)
+               else:
+                   temp.setProximo(No(valor))
+       else:
+           self.root = No(valor)
+
    def percorreListaEncadeada(self):
       temp = self.root
       while(temp):
