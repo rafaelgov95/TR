@@ -53,21 +53,6 @@ class Node(object):
         self.left = self.left._deleteMin()
         return self
 
-    # def traverse(self, visit, order='pre'):
-    #
-    #     if order == 'pre':
-    #         visit(self.key)
-    #     if self.left is not None:
-    #         self.left.traverse(visit, order)
-    #     if order == 'in':
-    #         visit(self.key)
-    #     if self.right is not None:
-    #         self.right.traverse(visit, order)
-    #     if order == 'pos':
-    #         visit(self.key)
-    #
-    # def percorre(self, order='pre'):
-    #     self.traverse(print, order)
 
     def posordem(self):
         if self.left:

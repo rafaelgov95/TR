@@ -1,16 +1,13 @@
-# -*- encoding:utf-8 -*-
-from __future__ import print_function
+# -*- coding: UTF-8 -*-
+from Node import Node
+class Arvore (object):
 
+    def __init__(self,root=None):
+        self.root = Node(root);
 
-
-
-if __name__ == '__main__':
-    tree = BSTNode('S')
-    tree.add('E')
-    tree.add('X')
-    tree.add('A')
-    tree.add('R')
-    tree.add('C')
-    tree.add('H')
-    tree.add('M')
-    tree.print()
+    preordem = lambda self: self.root.preordem()
+    posordem =lambda self: self.root.posordem()
+    inordem = lambda self: self.root.inordem()
+    get = lambda self,key: self.root.get(key)
+    add = lambda self,key: self.root.add(key)
+    remove = lambda self,key:self.root.remove(key)
