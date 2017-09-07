@@ -1,22 +1,14 @@
 # -*- coding: utf-8 -*-
 
-from Modelo.Arvore import Arvore
+from Modelo.Node import Node
 
-def main():
-    root = Arvore("A")
-    # root.add("B")
-    # root.add("C")
-    # root.add("D")
-    # root.add("E")
-    # root.add("F")
-    # root.add("G")
-    # root.add("H")
-    # root.add("I")
-    print "Removeu : "+ str(root.remove("A").key)
-    # root.preordem()
-    # root.posordem()
-
-    root.inordem()
-
-if __name__ == "__main__": # Chamada Principal da Aplicação.
-    main()
+if __name__ == '__main__':
+    tree = Node('S')
+    tree.add('E')
+    tree.add('X')
+    tree.add('A')
+    tree.add('R')
+    tree.add('C')
+    tree.add('H')
+    tree.add('M')
+    tree.percorre("pos")

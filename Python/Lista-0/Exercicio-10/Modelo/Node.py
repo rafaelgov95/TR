@@ -1,28 +1,28 @@
-# -*- coding: UTF-8 -*-
+# -*- encoding:utf-8 -*-
+from __future__ import print_function
 
-class Node:
 
-    def __init__(self,key,left=None,right=None):
+class Node(object):
+    def __init__(self, key, value=None, left=None, right=None):
         self.key = key
+        self.value = value
         self.left = left
         self.right = right
-        self.conta = 1
-
 
     def get(self, key):
-        if key > self.key:
-            if not self.right is None:
-                return self.right.get(key)
-            else:
-                return None
-        elif key < self.key:
-            if not self.left is None:
-                return self.left.get(key)
-            else:
-                return None
-        else:
-            return self.key
+        if self.key == key:
+            return self
+        node = self.left if key < self.key else self.right
+        if node is not None:
+            return node.get(key)
 
+    def add(self, key):
+        side = 'left' if key < self.key else 'right'
+        node = getattr(self, side)
+        if node is None:
+            setattr(self, side, Node(key))
+        else:
+            node.add(key)
 
     def remove(self, key):
         if key < self.key:
@@ -30,77 +30,41 @@ class Node:
         elif key > self.key:
             self.right = self.right.remove(key)
         else:
-            # encontramos o elemento, então vamos removê-lo!
-            if self.key == key:
-
-                if self.right is None and self.left is None:
-                    tmp = self
-                    self = None
-                    pass
-                if self.right is None:
-                    self.left._min()
-            return tmp
-
+            if self.right is None:
+                return self.left
+            if self.left is None:
+                return self.right
+            t = self.right._min()
+            self.key, self.value = t.key, t.value
+            self.right._deleteMin()
+        return self
 
     def _min(self):
-        """Retorna o menor elemento da subárvore que tem self como raiz.
-        """
+
         if self.left is None:
             return self
         else:
             return self.left._min()
 
-    def _remove_min(self):
-        """Remove o menor elemento da subárvore que tem self como raiz.
-        """
+    def _deleteMin(self):
+
         if self.left is None:  # encontrou o min, daí pode rearranjar
             return self.right
-        self.left = self.left._removeMin()
+        self.left = self.left._deleteMin()
         return self
 
-    def add(self, key):
-        if self.get(key) is None:
-            if key > self.key:
-                self.addright(key)
-            elif key < self.key:
-                self.addleft(key)
-            else:
-                self.conta = self.conta + 1
-        else:
-            print "Erro ao Adicionar " + str(key) + " já foi adicionado."
+    def traverse(self, visit, order='pre'):
 
-    def addleft(self, valor):
-        if self.left:
-            self.left.add(valor)
-        else:
-            self.left = Node(valor)
+        if order == 'pre':
+            visit(self.key)
+        if self.left is not None:
+            self.left.traverse(visit, order)
+        if order == 'in':
+            visit(self.key)
+        if self.right is not None:
+            self.right.traverse(visit, order)
+        if order == 'pos':
+            visit(self.key)
 
-    def addright(self, valor):
-        if self.right:
-            self.right.add(valor)
-        else:
-            self.right = Node(valor)
-
-    def preordem(self):
-        if not self is None:
-            print self.key
-            if self.left:
-                 self.preordem()
-            if self.right:
-                 self.preordem()
-
-    def inordem(self,node=None):
-        if not self is None:
-            if self.left:
-                self.left.inordem()
-            print self.key
-            if self.right:
-                self.right.inordem()
-
-    def posordem(self):
-        if not self is None:
-            if self.left:
-                self.posordem()
-            if self.right:
-                self.preordem()
-        print self.key
+    def percorre(self, order='pre'):
+        self.traverse(print, order)
