@@ -17,7 +17,6 @@ class Node(object):
         print self.key
 
     def inordem(self):
-
         if self.left:
             self.left.inordem()
         print self.key
@@ -62,14 +61,12 @@ class Node(object):
         return self
 
     def _min(self):
-
         if self.left is None:
             return self
         else:
             return self.left._min()
 
     def _deleteMin(self):
-
         if self.left is None:  # encontrou o min, daí pode rearranjar
             return self.right
         self.left = self.left._deleteMin()
