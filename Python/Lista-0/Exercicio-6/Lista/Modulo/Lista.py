@@ -60,11 +60,20 @@ class Lista(object):
                     temp = temp.getProximo()
                 tempo = temp.getProximo().getProximo()
                 temp.setProximo(tempo)
-
-
         else:
             temp = self.root.getProximo()
             valor = self.root.getValor()
             self.root = temp
             return valor
 
+   def get(self, valor=None):
+       if (self.root):
+           cont=0
+           temp = self.root
+           while (temp.getValor() != valor):
+               cont+=1
+               temp = temp.getProximo()
+           print cont
+
+   def clean(self):
+       self.root = No()

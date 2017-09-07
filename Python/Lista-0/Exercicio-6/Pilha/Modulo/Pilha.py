@@ -13,16 +13,3 @@ class Pilha(object):
 
     def vazia(self):
         return len(self.dados) == 0
-
-if __name__ == "__main__":
-# teste da class Pilha
-    f = Pilha()
-    f.empilha("Angular")
-    f.empilha("C++")
-    f.empilha("Java")
-    f.empilha("JavaScript")
-    f.empilha("Python")
-    print(f.desempilha())
-    print(f.desempilha())
-    print(f.desempilha())
-    print(f.desempilha())
