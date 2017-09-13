@@ -1,0 +1,926 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7f05a2ca-a239-44fc-9c10-edaff2ecfe12" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Listas/Lista-0/Exercicio-1/Python.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Listas/Lista-0/Exercicio-10/App.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Listas/Lista-0/Exercicio-10/Modelo/Arvore.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Listas/Lista-0/Exercicio-10/Modelo/Node.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Listas/Lista-0/Exercicio-10/Modelo/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Listas/Lista-0/Exercicio-11/Arquivo/Arquivo.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Listas/Lista-0/Exercicio-11/Arquivo/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Listas/Lista-0/Exercicio-11/Main.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Listas/Lista-0/Exercicio-11/Numeros" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Listas/Lista-0/Exercicio-11/Quick/Quick.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Listas/Lista-0/Exercicio-11/Quick/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Listas/Lista-0/Exercicio-2/DiferencaEntreCompiladoreInterpletador.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Listas/Lista-0/Exercicio-3/Calculadora.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Listas/Lista-0/Exercicio-4/Exemplo-4/StringUnicode.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Listas/Lista-0/Exercicio-4/StringUnicode.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Listas/Lista-0/Exercicio-5/4.1.If.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Listas/Lista-0/Exercicio-5/4.2.For.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Listas/Lista-0/Exercicio-5/4.3.Range.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Listas/Lista-0/Exercicio-5/4.4.Break.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Listas/Lista-0/Exercicio-5/4.5.Pass.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Listas/Lista-0/Exercicio-5/4.6.Funcoes.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Listas/Lista-0/Exercicio-5/4.7.1.Default.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Listas/Lista-0/Exercicio-5/4.7.2.Chave-Valor.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Listas/Lista-0/Exercicio-5/4.7.3.Listas.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Listas/Lista-0/Exercicio-5/4.7.4.Desempacontando.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Listas/Lista-0/Exercicio-5/4.7.5.Lambda.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Listas/Lista-0/Exercicio-5/4.7.6.String.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Listas/Lista-0/Exercicio-6/Fila/FilaMain.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Listas/Lista-0/Exercicio-6/Fila/Modulo/Fila.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Listas/Lista-0/Exercicio-6/Fila/Modulo/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Listas/Lista-0/Exercicio-6/Lista/ListaMain.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Listas/Lista-0/Exercicio-6/Lista/Modulo/Lista.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Listas/Lista-0/Exercicio-6/Lista/Modulo/No.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Listas/Lista-0/Exercicio-6/Lista/Modulo/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Listas/Lista-0/Exercicio-6/Pilha/Modulo/Pilha.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Listas/Lista-0/Exercicio-6/Pilha/Modulo/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Listas/Lista-0/Exercicio-6/Pilha/PilhaMain.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Listas/Lista-0/Exercicio-7/DicionarioseListas.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Listas/Lista-0/Exercicio-7/Exemplo-7/Dicionario.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Listas/Lista-0/Exercicio-7/Exemplo-7/Lista.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Listas/Lista-0/Exercicio-7/Exemplo-7/Set.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Listas/Lista-0/Exercicio-8/5.6.Laco.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Listas/Lista-0/Exercicio-8/5.7.Condicoes.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Listas/Lista-0/Exercicio-8/5.8.Sequencias.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Listas/Lista-0/Exercicio-9/Exemplo-9/App.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Listas/Lista-0/Exercicio-9/Exemplo-9/ModulosPythons/Servicos.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Listas/Lista-0/Exercicio-9/Exemplo-9/ModulosPythons/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Listas/Lista-0/Exercicio-9/Modulos.pdf" afterPath="" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/TR$App__1_.coverage" NAME="App (1) Coverage Results" MODIFIED="1505320822479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Lista-0/Exercicio-10" />
+    <SUITE FILE_PATH="coverage/TR$Pilha.coverage" NAME="Pilha Coverage Results" MODIFIED="1504717055345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Lista-0/Exercicio-6" />
+    <SUITE FILE_PATH="coverage/TR$4_7_1_Default.coverage" NAME="4.7.1.Default Coverage Results" MODIFIED="1504187944967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Lista-0/Exercicio-4" />
+    <SUITE FILE_PATH="coverage/TR$4_7_5_Lambda.coverage" NAME="4.7.5.Lambda Coverage Results" MODIFIED="1504191732957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Lista-0/Exercicio-4" />
+    <SUITE FILE_PATH="coverage/TR$4_7_2_Chave_Valor.coverage" NAME="4.7.2.Chave-Valor Coverage Results" MODIFIED="1504191575042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Lista-0/Exercicio-4" />
+    <SUITE FILE_PATH="coverage/TR$Quick2.coverage" NAME="Quick2 Coverage Results" MODIFIED="1504460923861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Lista-0/Exercicio-11" />
+    <SUITE FILE_PATH="coverage/TR$Main.coverage" NAME="Main Coverage Results" MODIFIED="1505319705278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Lista-0/Exercicio-11" />
+    <SUITE FILE_PATH="coverage/TR$PilhaMain.coverage" NAME="PilhaMain Coverage Results" MODIFIED="1505323797176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Lista-0/Exercicio-6/Pilha" />
+    <SUITE FILE_PATH="coverage/TR$4_2_For.coverage" NAME="4.2.For Coverage Results" MODIFIED="1504552877374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Lista-0/Exercicio-4" />
+    <SUITE FILE_PATH="coverage/TR$4_7_6_String.coverage" NAME="4.7.6.String Coverage Results" MODIFIED="1504192221828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Lista-0/Exercicio-4" />
+    <SUITE FILE_PATH="coverage/TR$5_7_Condicoes.coverage" NAME="5.7.Condicoes Coverage Results" MODIFIED="1504463597402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Lista-0/Exercicio-8" />
+    <SUITE FILE_PATH="coverage/TR$Node.coverage" NAME="Node Coverage Results" MODIFIED="1504819518978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Lista-0/Exercicio-10/Modelo" />
+    <SUITE FILE_PATH="coverage/TR$5_8_Sequencias.coverage" NAME="5.8.Sequencias Coverage Results" MODIFIED="1504463789657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Lista-0/Exercicio-8" />
+    <SUITE FILE_PATH="coverage/TR$Arquivo.coverage" NAME="Arquivo Coverage Results" MODIFIED="1504811447273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Lista-0/Exercicio-11" />
+    <SUITE FILE_PATH="coverage/TR$Set.coverage" NAME="Set Coverage Results" MODIFIED="1505323126807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Lista-0/Exercicio-7/Exemplo-7" />
+    <SUITE FILE_PATH="coverage/TR$No.coverage" NAME="No Coverage Results" MODIFIED="1504797985854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Lista-0/Exercicio-6/Lista" />
+    <SUITE FILE_PATH="coverage/TR$Data.coverage" NAME="Data Coverage Results" MODIFIED="1504563239979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Lista-0/Exercicio-9/ModulosPythons" />
+    <SUITE FILE_PATH="coverage/TR$Dicionario.coverage" NAME="Dicionario Coverage Results" MODIFIED="1504677099629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Lista-0/Exercicio-7" />
+    <SUITE FILE_PATH="coverage/TR$Calculadora.coverage" NAME="Calculadora Coverage Results" MODIFIED="1505315972850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Lista-0/Exercicio-3" />
+    <SUITE FILE_PATH="coverage/TR$5_6_Laco.coverage" NAME="5.6.Laco Coverage Results" MODIFIED="1505317151386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Lista-0/Exercicio-8" />
+    <SUITE FILE_PATH="coverage/TR$Exemplo.coverage" NAME="Exemplo Coverage Results" MODIFIED="1504673579086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Lista-0/Exercicio-4" />
+    <SUITE FILE_PATH="coverage/TR$Arvore__1_.coverage" NAME="Arvore (1) Coverage Results" MODIFIED="1504377773149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Lista-0/Exercicio-10/Controller" />
+    <SUITE FILE_PATH="coverage/TR$Fila.coverage" NAME="Fila Coverage Results" MODIFIED="1504717073821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Lista-0/Exercicio-6" />
+    <SUITE FILE_PATH="coverage/TR$Lista__1_.coverage" NAME="Lista (1) Coverage Results" MODIFIED="1504798191862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Lista-0/Exercicio-6" />
+    <SUITE FILE_PATH="coverage/TR$App.coverage" NAME="App Coverage Results" MODIFIED="1504821717321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Lista-0/Exercicio-9/Exemplo-9" />
+    <SUITE FILE_PATH="coverage/TR$4_6_Funcoes.coverage" NAME="4.6.Funcoes Coverage Results" MODIFIED="1504186566652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Lista-0/Exercicio-4" />
+    <SUITE FILE_PATH="coverage/TR$FilaMain.coverage" NAME="FilaMain Coverage Results" MODIFIED="1505323803127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Lista-0/Exercicio-6/Fila" />
+    <SUITE FILE_PATH="coverage/TR$StringUnicode.coverage" NAME="StringUnicode Coverage Results" MODIFIED="1505316693897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Lista-0/Exercicio-4/Exemplo-4" />
+    <SUITE FILE_PATH="coverage/TR$4_4_Break.coverage" NAME="4.4.Break Coverage Results" MODIFIED="1504185242274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Lista-0/Exercicio-4" />
+    <SUITE FILE_PATH="coverage/TR$Quick.coverage" NAME="Quick Coverage Results" MODIFIED="1504460094881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Lista-0/Exercicio-11" />
+    <SUITE FILE_PATH="coverage/TR$4_5_Pass.coverage" NAME="4.5.Pass Coverage Results" MODIFIED="1504185428453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Lista-0/Exercicio-4" />
+    <SUITE FILE_PATH="coverage/TR$Lista.coverage" NAME="Lista Coverage Results" MODIFIED="1504809442865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Lista-0/Exercicio-6/Lista/Modulo" />
+    <SUITE FILE_PATH="coverage/TR$Arvore.coverage" NAME="Arvore Coverage Results" MODIFIED="1504819125999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Lista-0/Exercicio-10/Modelo" />
+    <SUITE FILE_PATH="coverage/TR$ListaMain.coverage" NAME="ListaMain Coverage Results" MODIFIED="1505323799872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Lista-0/Exercicio-6/Lista" />
+    <SUITE FILE_PATH="coverage/TR$Servicos.coverage" NAME="Servicos Coverage Results" MODIFIED="1504821687099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Lista-0/Exercicio-9/Exemplo-9/ModulosPythons" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Aula-II.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Aula-II.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="3" column="28" lean-forward="false" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>key</find>
+      <find>value</find>
+      <find>-33-2</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Python/Lista-0/Exercicio-7/Dicionario.py" />
+        <option value="$PROJECT_DIR$/Python/Lista-0/Exercicio-7/Lista.py" />
+        <option value="$PROJECT_DIR$/Python/Lista-0/Exercicio-11/Quick.py" />
+        <option value="$PROJECT_DIR$/Python/Lista-0/Exercicio-9/lista.tex" />
+        <option value="$PROJECT_DIR$/Python/Lista-0/Exercicio-6/Fila.py" />
+        <option value="$PROJECT_DIR$/Python/Lista-0/Exercicio-6/Pilha.py" />
+        <option value="$PROJECT_DIR$/Python/Lista-0/Exercicio-6/Lista.py" />
+        <option value="$PROJECT_DIR$/Python/Lista-0/Exercicio-6/Lista/Lista.py" />
+        <option value="$PROJECT_DIR$/Python/Lista-0/Exercicio-6/Lista/No.py" />
+        <option value="$PROJECT_DIR$/Python/Lista-0/Exercicio-6/Lista/Modelo/Main.py" />
+        <option value="$PROJECT_DIR$/Python/Lista-0/Exercicio-6/Lista/Modelo/Lista.py" />
+        <option value="$PROJECT_DIR$/Python/Lista-0/Exercicio-6/Fila/Modulo/Fila.py" />
+        <option value="$PROJECT_DIR$/Python/Lista-0/Exercicio-6/Pilha/Pilha.py" />
+        <option value="$PROJECT_DIR$/Python/Lista-0/Exercicio-6/Pilha/Modulo/PilhaMain.py" />
+        <option value="$PROJECT_DIR$/Python/Lista-0/Exercicio-11/Arquivo.py" />
+        <option value="$PROJECT_DIR$/Python/Lista-0/Exercicio-11/Main/Main.py" />
+        <option value="$PROJECT_DIR$/Python/Lista-0/Exercicio-3/Calculadora.py" />
+        <option value="$PROJECT_DIR$/Python/Lista-0/Exercicio-4/Exemplo-4/StringUnicode.py" />
+        <option value="$PROJECT_DIR$/Python/Lista-0/Exercicio-5/4.1.If.py" />
+        <option value="$PROJECT_DIR$/Python/Lista-0/Exercicio-5/4.2.For.py" />
+        <option value="$PROJECT_DIR$/Python/Lista-0/Exercicio-5/4.3.Range.py" />
+        <option value="$PROJECT_DIR$/Python/Lista-0/Exercicio-5/4.4.Break.py" />
+        <option value="$PROJECT_DIR$/Python/Lista-0/Exercicio-5/4.5.Pass.py" />
+        <option value="$PROJECT_DIR$/Python/Lista-0/Exercicio-5/4.6.Funcoes.py" />
+        <option value="$PROJECT_DIR$/Python/Lista-0/Exercicio-5/4.7.1.Default.py" />
+        <option value="$PROJECT_DIR$/Python/Lista-0/Exercicio-5/4.7.2.Chave-Valor.py" />
+        <option value="$PROJECT_DIR$/Python/Lista-0/Exercicio-5/4.7.3.Listas.py" />
+        <option value="$PROJECT_DIR$/Python/Lista-0/Exercicio-5/4.7.4.Desempacontando.py" />
+        <option value="$PROJECT_DIR$/Python/Lista-0/Exercicio-5/4.7.5.Lambda.py" />
+        <option value="$PROJECT_DIR$/Python/Lista-0/Exercicio-5/4.7.6.String.py" />
+        <option value="$PROJECT_DIR$/Python/Lista-0/Exercicio-6/Fila/FilaMain.py" />
+        <option value="$PROJECT_DIR$/Python/Lista-0/Exercicio-6/Lista/ListaMain.py" />
+        <option value="$PROJECT_DIR$/Python/Lista-0/Exercicio-6/Lista/Modulo/Lista.py" />
+        <option value="$PROJECT_DIR$/Python/Lista-0/Exercicio-6/Lista/Modulo/No.py" />
+        <option value="$PROJECT_DIR$/Python/Lista-0/Exercicio-6/Pilha/Modulo/Pilha.py" />
+        <option value="$PROJECT_DIR$/Python/Lista-0/Exercicio-6/Pilha/PilhaMain.py" />
+        <option value="$PROJECT_DIR$/Python/Lista-0/Exercicio-8/5.7.Condicoes.py" />
+        <option value="$PROJECT_DIR$/Python/Lista-0/Exercicio-8/5.8.Sequencias.py" />
+        <option value="$PROJECT_DIR$/Python/Lista-0/Exercicio-8/5.6.Laco.py" />
+        <option value="$PROJECT_DIR$/Python/Lista-0/Exercicio-9/Exemplo-9/ModulosPythons/Servicos.py" />
+        <option value="$PROJECT_DIR$/Python/Lista-0/Exercicio-10/App.py" />
+        <option value="$PROJECT_DIR$/Python/Lista-0/Exercicio-10/Modelo/Arvore.py" />
+        <option value="$PROJECT_DIR$/Python/Lista-0/Exercicio-10/Modelo/Node.py" />
+        <option value="$PROJECT_DIR$/Python/Lista-0/Exercicio-11/Arquivo/Arquivo.py" />
+        <option value="$PROJECT_DIR$/Python/Lista-0/Exercicio-11/Main.py" />
+        <option value="$PROJECT_DIR$/Python/Lista-0/Exercicio-11/Numeros" />
+        <option value="$PROJECT_DIR$/Python/Lista-0/Exercicio-9/Modulos.aux" />
+        <option value="$PROJECT_DIR$/Python/Lista-0/Exercicio-9/Exemplo-9/App.py" />
+        <option value="$PROJECT_DIR$/Python/Lista-0/Exercicio-7/Exemplo-7/Dicionario.py" />
+        <option value="$PROJECT_DIR$/Python/Lista-0/Exercicio-7/Exemplo-7/Set.py" />
+        <option value="$PROJECT_DIR$/Python/Lista-0/Exercicio-7/Exemplo-7/Lista.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="27" />
+    <option name="width" value="1280" />
+    <option name="height" value="997" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyCompatibilityInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="TR" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TR" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Money" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Python/Lista-0/Exercicio-11" />
+      <recent name="$PROJECT_DIR$/Python/Lista-0/Exercicio-6/Lista" />
+      <recent name="$PROJECT_DIR$/Python/Lista-0/Exercicio-7" />
+      <recent name="$PROJECT_DIR$/Python/Lista-0/Exercicio-4" />
+      <recent name="$PROJECT_DIR$/Python/Lista-0/Exercicio-9" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Python/Lista-0/Exercicio-4/Exemplo-4" />
+      <recent name="$PROJECT_DIR$/Python/Lista-0/Exercicio-7/Exemplo-7" />
+      <recent name="$PROJECT_DIR$/Python/Lista-0/Exercicio-9" />
+      <recent name="$PROJECT_DIR$/Python/Lista-0/Exercicio-9/Exemplo-9" />
+      <recent name="$PROJECT_DIR$/Python/Lista-1" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.FilaMain">
+    <configuration name="App (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/Lista-0/Exercicio-10" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="TR" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/Lista-0/Exercicio-10/App.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="FilaMain" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/Lista-0/Exercicio-6/Fila" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="TR" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/Lista-0/Exercicio-6/Fila/FilaMain.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="ListaMain" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/Lista-0/Exercicio-6/Lista" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="TR" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/Lista-0/Exercicio-6/Lista/ListaMain.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="PilhaMain" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/Lista-0/Exercicio-6/Pilha" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="TR" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/Lista-0/Exercicio-6/Pilha/PilhaMain.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="Set" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/Lista-0/Exercicio-7/Exemplo-7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="TR" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/Lista-0/Exercicio-7/Exemplo-7/Set.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="lista (1)" type="LATEX_RUN_CONFIGURATION" factoryName="LaTeX configuration factory">
+      <texify>
+        <compiler>PDFLATEX</compiler>
+        <compiler-path />
+        <main-file>$PROJECT_DIR$/Python/Lista-0/Exercicio-2/DiferencaEntreCompiladoreInterpletador.tex</main-file>
+        <aux-dir>true</aux-dir>
+        <output-format>PDF</output-format>
+      </texify>
+    </configuration>
+    <configuration name="lista" type="LATEX_RUN_CONFIGURATION" factoryName="LaTeX configuration factory">
+      <texify>
+        <compiler>PDFLATEX</compiler>
+        <compiler-path />
+        <main-file>$PROJECT_DIR$/Python/Lista-0/Exercicio-9/Modulos.tex</main-file>
+        <aux-dir>true</aux-dir>
+        <output-format>PDF</output-format>
+      </texify>
+    </configuration>
+    <list size="7">
+      <item index="0" class="java.lang.String" itemvalue="LaTeX.lista (1)" />
+      <item index="1" class="java.lang.String" itemvalue="LaTeX.lista" />
+      <item index="2" class="java.lang.String" itemvalue="Python.App (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Set" />
+      <item index="4" class="java.lang.String" itemvalue="Python.PilhaMain" />
+      <item index="5" class="java.lang.String" itemvalue="Python.ListaMain" />
+      <item index="6" class="java.lang.String" itemvalue="Python.FilaMain" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.FilaMain" />
+        <item index="1" class="java.lang.String" itemvalue="Python.ListaMain" />
+        <item index="2" class="java.lang.String" itemvalue="Python.PilhaMain" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Set" />
+        <item index="4" class="java.lang.String" itemvalue="Python.App (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7f05a2ca-a239-44fc-9c10-edaff2ecfe12" name="Default" comment="" />
+      <created>1504184485273</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1504184485273</updated>
+    </task>
+    <task id="LOCAL-00001" summary="d">
+      <created>1504184543025</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1504184543025</updated>
+    </task>
+    <task id="LOCAL-00002" summary="d">
+      <created>1504184610480</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1504184610480</updated>
+    </task>
+    <task id="LOCAL-00003" summary="d">
+      <created>1504184700643</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1504184700643</updated>
+    </task>
+    <task id="LOCAL-00004" summary="SD">
+      <created>1504186763420</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1504186763420</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="27" width="1920" height="1053" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24358974" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32857144" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4704" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.46813187" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4274062" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2010989" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.336" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.09989316" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5024" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="d" />
+    <MESSAGE value="SD" />
+    <option name="LAST_COMMIT_MESSAGE" value="SD" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Python/Lista-0/Exercicio-11/Quick/Quick.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Python/Lista-0/Exercicio-3/Calculadora.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Python/Lista-0/Exercicio-6/Lista/Modulo/Lista.py</url>
+          <line>73</line>
+          <option name="timeStamp" value="226" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Python/Lista-0/Exercicio-10/App.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="238" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Python/Lista-0/Exercicio-10/App.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="239" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="242" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-7/DicionarioseListas.tex">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-6/Lista/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-6/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-11/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-9/Exemplo-9/ModulosPythons/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-6/Lista/Modulo/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-11/Quick/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-3/Calculadora.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-4/StringUnicode.tex">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="30" lean-forward="false" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-4/Exemplo-4/StringUnicode.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-5/4.1.If.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="12" lean-forward="true" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-5/4.2.For.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-5/4.3.Range.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="21" lean-forward="false" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-5/4.4.Break.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-5/4.5.Pass.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="21" lean-forward="false" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-5/4.6.Funcoes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-5/4.7.1.Default.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-5/4.7.2.Chave-Valor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-5/4.7.3.Listas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-5/4.7.4.Desempacontando.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-5/4.7.6.String.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-5/4.7.5.Lambda.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="10" lean-forward="true" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-6/Fila/Modulo/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-6/Fila/Modulo/Fila.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-6/Lista/Modulo/Lista.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="37">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-6/Lista/Modulo/No.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-9/Exemplo-9/ModulosPythons/Servicos.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-10/Modelo/Arvore.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="22" lean-forward="false" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/Python/Lista-1/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-11/Arquivo/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-11/Numeros">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="36" lean-forward="false" selection-start-line="0" selection-start-column="36" selection-end-line="0" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-11/Quick/Quick.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-553">
+          <caret line="2" column="20" lean-forward="false" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-11/Arquivo/Arquivo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-11/Main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-10/Modelo/Node.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-162">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-10/App.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="18" column="18" lean-forward="false" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-9/Modulos.aux">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-9/Exemplo-9/App.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="11" column="60" lean-forward="false" selection-start-line="11" selection-start-column="60" selection-end-line="11" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-7/Exemplo-7/Dicionario.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-7/Exemplo-7/Set.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-7/Exemplo-7/Lista.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-8/5.7.Condicoes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="49" lean-forward="false" selection-start-line="4" selection-start-column="49" selection-end-line="4" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-8/5.8.Sequencias.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-8/5.6.Laco.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="27" lean-forward="false" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-6/Pilha/Modulo/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-6/Pilha/Modulo/Pilha.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-6/Pilha/PilhaMain.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-6/Fila/FilaMain.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="13" column="15" lean-forward="false" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-6/Lista/ListaMain.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="32" column="47" lean-forward="false" selection-start-line="32" selection-start-column="47" selection-end-line="32" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aula-II.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="28" lean-forward="false" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
