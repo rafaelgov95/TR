@@ -1,4 +1,6 @@
-# -*- coding: utf-8 -*-
+# -*- coding: UTF-8 -*-
+# Autor: Rafael Viana
+
 print "Exemplo 1"
 a=range(10)
 print a

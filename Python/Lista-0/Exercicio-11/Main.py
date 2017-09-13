@@ -1,4 +1,6 @@
 # -*- coding: UTF-8 -*-
+# Autor: Rafael Viana
+
 from Arquivo import Arquivo
 from Quick import Quick
 

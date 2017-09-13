@@ -1,4 +1,5 @@
-# -*- coding: utf-8 -*-
+# -*- coding: UTF-8 -*-
+# Autor: Rafael Viana
 
 print "Exemplo 1"
 def parrot(voltage, state='a stiff', action='voom', type='Norwegian Blue'):

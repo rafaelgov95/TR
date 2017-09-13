@@ -1,5 +1,6 @@
-# Medindo algumas strings:
-# -*- coding: utf-8 -*-
+# -*- coding: UTF-8 -*-
+# Autor: Rafael Viana
+
 print "Exemplo 1"
 a = ['gato', 'janela', 'defenestrar']
 for x in a:

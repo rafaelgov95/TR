@@ -1,4 +1,5 @@
-# -*- coding: utf-8 -*-
+# -*- coding: UTF-8 -*-
+# Autor: Rafael Viana
 
 # craindo Lista,
 a = ['Python','JavaScript', 'NodeJs',"AngularX", "C#","C++","C","Perl","AngularJs","Java","Python","Delph","PHP","CSS","SASS","LES","SH"]

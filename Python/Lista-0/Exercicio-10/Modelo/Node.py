@@ -1,4 +1,6 @@
-# -*- encoding:utf-8 -*-
+# -*- coding: UTF-8 -*-
+# Autor: Rafael Viana
+
 class Node(object):
     def __init__(self, key, value=None, left=None, right=None):
         self.key = key
@@ -27,20 +29,20 @@ class Node(object):
         if self.right:
            self.right.preordem()
 
-    def get(self, key):
-        if self.key == key:
+    def buscar(self, chave):
+        if self.key == chave:
             return self
-        node = self.left if key < self.key else self.right
+        node = self.left if chave < self.key else self.right
         if node is not None:
-            return node.get(key)
+            return node.buscar(chave)
 
-    def add(self, key):
-        side = 'left' if key < self.key else 'right'
-        node = getattr(self, side)
+    def inserir(self, key):
+        metade = 'left' if key < self.key else 'right'
+        node = getattr(self, metade)
         if node is None:
-            setattr(self, side, Node(key))
+            setattr(self, metade, Node(key))
         else:
-            node.add(key)
+            node.inserir(key)
 
     def remove(self, key):
         if key < self.key:

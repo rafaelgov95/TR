@@ -1,4 +1,6 @@
 # -*- coding: UTF-8 -*-
+# Autor: Rafael Viana
+
 from Node import Node
 class Arvore (object):
 
@@ -8,6 +10,6 @@ class Arvore (object):
     preordem = lambda self: self.root.preordem()
     posordem =lambda self: self.root.posordem()
     inordem = lambda self: self.root.inordem()
-    get = lambda self,key: self.root.get(key)
-    add = lambda self,key: self.root.add(key)
+    buscar = lambda self,key: self.root.buscar(key)
+    inserir = lambda self,key: self.root.inserir(key)
     remove = lambda self,key:self.root.remove(key)

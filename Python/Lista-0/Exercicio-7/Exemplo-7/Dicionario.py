@@ -1,4 +1,6 @@
-# -*- coding: utf-8 -*-
+# -*- coding: UTF-8 -*-
+# Autor: Rafael Viana
+
 # esse dicionario e simples porém muito bom para guardar conjunto de chave valores
 
 print "Exemplo 1"

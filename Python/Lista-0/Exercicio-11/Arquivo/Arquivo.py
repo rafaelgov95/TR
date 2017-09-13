@@ -1,4 +1,5 @@
 # -*- coding: UTF-8 -*-
+# Autor: Rafael Viana
 
 def AcessarArquivo():
     arquivo = open('Numeros', 'r') # abre o documento Numeros

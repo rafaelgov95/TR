@@ -1,4 +1,6 @@
-# -*- coding: UTF-8
+# -*- coding: UTF-8 -*-
+# Autor: Rafael Viana
+
 from Modulo.Lista import Lista
 
 if __name__ == "__main__":

@@ -1,4 +1,5 @@
 # -*- coding: UTF-8 -*-
+# Autor: Rafael Viana
 
 import datetime
 import requests

@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-
+# Autor: Rafael Viana
 
 class Pilha:
     def __init__(self):

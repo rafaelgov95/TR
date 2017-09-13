@@ -1,4 +1,5 @@
 # -*- coding: UTF-8 -*-
+# Autor: Rafael Viana
 
 print "Exemplo 1"
 print (1, 2, 3)              < (1, 2, 4)

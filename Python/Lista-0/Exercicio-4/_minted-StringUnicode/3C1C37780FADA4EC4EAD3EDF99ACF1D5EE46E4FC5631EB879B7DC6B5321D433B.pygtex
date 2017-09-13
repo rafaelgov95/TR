@@ -1,0 +1,12 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYG{c+c1}{\PYGZsh{} \PYGZhy{}*\PYGZhy{} coding: UTF\PYGZhy{}8 \PYGZhy{}*\PYGZhy{}}
+\PYG{c+c1}{\PYGZsh{} Autor: Rafael Viana}
+
+\PYG{n}{u} \PYG{o}{=}  \PYG{l+s+sa}{u}\PYG{l+s+s2}{\PYGZdq{}äöü\PYGZdq{}}
+\PYG{n}{s} \PYG{o}{=} \PYG{n}{u}\PYG{o}{.}\PYG{n}{encode}\PYG{p}{(}\PYG{l+s+s1}{\PYGZsq{}utf8\PYGZsq{}}\PYG{p}{)}
+
+\PYG{k}{print} \PYG{n}{s} \PYG{c+c1}{\PYGZsh{}\PYGZsh{} Resultado : äöü.}
+
+\PYG{c+c1}{\PYGZsh{}\PYGZsh{} Injetando code UTF\PYGZhy{}8 direto em line.}
+\PYG{k}{print} \PYG{l+s+s1}{\PYGZsq{}}\PYG{l+s+se}{\PYGZbs{}xe2\PYGZbs{}x82\PYGZbs{}xac\PYGZbs{}xe2\PYGZbs{}x82\PYGZbs{}xac\PYGZbs{}xe2\PYGZbs{}x82\PYGZbs{}xac}\PYG{l+s+s1}{\PYGZsq{}} \PYG{c+c1}{\PYGZsh{}\PYGZsh{} Resultado : €€€.}
+\end{Verbatim}

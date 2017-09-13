@@ -1,4 +1,5 @@
-
+# -*- coding: UTF-8 -*-
+# Autor: Rafael Viana
 
 x = int(raw_input("Por favor entre com um numero inteiro: "))
 

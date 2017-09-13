@@ -1,6 +1,8 @@
 # -*- coding: UTF-8
 
 from No import No
+# -*- coding: UTF-8 -*-
+# Autor: Rafael Viana
 
 class Lista(object):
 

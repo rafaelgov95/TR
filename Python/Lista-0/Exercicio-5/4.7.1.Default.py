@@ -1,4 +1,6 @@
-# -*- coding: utf-8 -*-
+# -*- coding: UTF-8 -*-
+# Autor: Rafael Viana
+
 print "Exemplo 1"
 def ask_ok(prompt, retries=4, complaint='Yes or no, please!'):
     while 1:

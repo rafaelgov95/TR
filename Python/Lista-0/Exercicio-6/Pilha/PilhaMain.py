@@ -1,4 +1,6 @@
 # -*- coding: UTF-8 -*-
+# Autor: Rafael Viana
+
 from Modulo.Pilha import Pilha
 
 
