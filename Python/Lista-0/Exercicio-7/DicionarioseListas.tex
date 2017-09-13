@@ -2,9 +2,8 @@
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
 \usepackage[brazilian]{babel}
-\usepackage{verbatim}
-
-\title{Lista de Exercicio  - Exercicio I }
+\usepackage{minted}
+\title{Lista de Exercício  - Exercício VII }
 \author{Rafael Gonçalves de  Oliveira Viana}
 
 \date{2º semestre de 2017}
@@ -14,32 +13,36 @@
 \maketitle
 
 \begin{enumerate}
-\item Qual é a diferença entre um Set, Dicionário e Lista ?. Implemente um exemplo de cada
+\item[VII] Qual é a diferença entre um Set, Dicionário e Lista ?. Implemente um exemplo de cada
 
 \textbf{Set}
 
-Um conjunto é uma coleção desordenada de dados, sem elementos duplicados. Usos comuns para isso incluem verificações da existência de objetos em outros sequências e eliminação de items duplicados. Conjuntos também suportam operações matemáticas como união, interseção, diferença e diferença simétrica.
+É uma coleção desordenada de dados, sem elementos duplicados. Usos comuns para isso incluem verificações da existência de objetos em outros sequências e eliminação de items duplicados.
 
-\textbf{Dicionários}
+Há uma grande quantidade de setoperações, incluindo union (|), intersecção (\&), diferença (-),  diferença simetrica (\^). Estas são operações incomuns, porém possíveis.
+\inputminted{python}{Exemplo-7/Set.py}
 
-Dicionários são também chamados de ``memória associativa'', ou ``vetor associativo''. Diferentemente de sequências que são indexadas por inteiros, dicionários são indexados por chaves (keys), que podem ser de qualquer tipo imutável (como strings e inteiros). Tuplas também podem ser chaves se contiverem apenas strings, inteiros ou outras tuplas. Se a tupla contiver, direta ou indiretamente, qualquer valor mutável não poderá ser chave. Listas não podem ser usadas como chaves porque são mutáveis.
+\textbf{Dicionário}
 
-O melhor modelo mental de um dicionário é um conjunto não ordenado de pares chave-valor, onde as chaves são únicas em uma dada instância do dicionário.
+É também conhecidos como ``memória associativa'', ou ``vetor associativo''. Diferentemente de sequências que são indexadas por inteiros, dicionário é indexado por uma chave, que podem ser de qualquer tipo imutável (como strings e inteiros). Tuplas de strings e inteiros podem ser utilizado com chave. Listas não podem ser usadas como chaves porque são mutáveis, o melhor exemplo de um dicionário é um conjunto não ordenado de pares chave-valor, onde as chaves são únicas em uma dada instância do dicionário.
 
-Dicionários são delimitados por : {}. Uma lista de pares chave:valor separada por vírgulas dentro desse delimitadores define a constituição inicial do dicionário. Dessa forma também será impresso o conteúdo de um dicionário em uma seção de depuração.
+Dicionários são delimitados por :\{ \}. Uma lista de pares 'chave:valor' separada por vírgulas dentro desse delimitadores define a constituição inicial do dicionário. Dessa forma também será impresso o conteúdo de um dicionário em uma seção de depuração.
 
 As principais operações em um dicionário são armazenar e recuperar valores a partir de chaves. Também é possível remover um par chave:valor com o comando del. Se você armazenar um valor utilizando uma chave já presente, o antigo valor será substituído pelo novo. Se tentar recuperar um valor dada uma chave inexistente será gerado um erro.
 
 O método keys() do dicionário retorna a lista de todas as chaves presentes no dicionário, em ordem arbitrária (se desejar ordená-las basta aplicar o método sort() na lista devolvida). Para verificar a existência de uma chave, utilize o método has\_key() do dicionário ou a keyword in.
+\inputminted{python}{Exemplo-7/Dicionario.py}
 
 \textbf{Listas}
 
 A lista é uma estrutra de dados, que pode ser escrita como uma lista de valores separados por vírgula e entre colchetes. Mais importante, os valores contidos na lista não precisam ser do mesmo tipo.
 
+\inputminted{python}{Exemplo-7/Lista.py}
 
 \textbf{Conclusão}
 
-Python possui diversas estruturas de dados nativas utilizadas para agrupar outros valores, cada uma delas pode ser aplicada, em situações diferentes, assim aproveitando todos os recursos disponiveis da estrutura de dado escolhida, porém a mais versátil de todas é sem duvida a lista.
+Python possui diversas estruturas de dados nativas utilizadas para agrupar outros valores, cada uma delas pode ser aplicada, em situações diferentes, 
+assim aproveitando todos os recursos da linguagem python disponível, porém a estrutura de dados mais versátil é sem duvida a lista.
 
 
 

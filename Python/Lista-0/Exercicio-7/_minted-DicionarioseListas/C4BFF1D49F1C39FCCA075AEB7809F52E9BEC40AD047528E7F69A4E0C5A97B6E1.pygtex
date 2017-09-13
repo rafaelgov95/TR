@@ -1,0 +1,18 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYG{c+c1}{\PYGZsh{} \PYGZhy{}*\PYGZhy{} coding: UTF\PYGZhy{}8 \PYGZhy{}*\PYGZhy{}}
+\PYG{c+c1}{\PYGZsh{} Autor: Rafael Viana}
+
+\PYG{c+c1}{\PYGZsh{}Cria grupo v0}
+\PYG{n}{v0}\PYG{o}{=}\PYG{n+nb}{set}\PYG{p}{(} \PYG{p}{(}\PYG{l+m+mi}{1}\PYG{p}{,}\PYG{l+m+mi}{1}\PYG{p}{,}\PYG{l+m+mi}{2}\PYG{p}{,}\PYG{l+m+mi}{3}\PYG{p}{,}\PYG{l+m+mi}{5}\PYG{p}{,}\PYG{l+m+mi}{8}\PYG{p}{,}\PYG{l+m+mi}{13}\PYG{p}{)} \PYG{p}{)}
+\PYG{c+c1}{\PYGZsh{}Cria grupo v1}
+\PYG{n}{v1}\PYG{o}{=}\PYG{n+nb}{set}\PYG{p}{(} \PYG{p}{(}\PYG{l+m+mi}{2}\PYG{p}{,}\PYG{l+m+mi}{3}\PYG{p}{,}\PYG{l+m+mi}{5}\PYG{p}{,}\PYG{l+m+mi}{7}\PYG{p}{,}\PYG{l+m+mi}{11}\PYG{p}{,}\PYG{l+m+mi}{13}\PYG{p}{)} \PYG{p}{)}
+
+\PYG{c+c1}{\PYGZsh{} União}
+\PYG{k}{print} \PYG{n}{v0} \PYG{o}{|} \PYG{n}{v1}
+\PYG{c+c1}{\PYGZsh{} Intersecção}
+\PYG{k}{print} \PYG{n}{v0} \PYG{o}{\PYGZam{}} \PYG{n}{v1}
+\PYG{c+c1}{\PYGZsh{} Diferença}
+\PYG{k}{print} \PYG{n}{v0} \PYG{o}{\PYGZhy{}} \PYG{n}{v1}
+\PYG{c+c1}{\PYGZsh{}Diferença simétrica}
+\PYG{k}{print} \PYG{n}{v0} \PYG{o}{\PYGZca{}} \PYG{n}{v1}
+\end{Verbatim}

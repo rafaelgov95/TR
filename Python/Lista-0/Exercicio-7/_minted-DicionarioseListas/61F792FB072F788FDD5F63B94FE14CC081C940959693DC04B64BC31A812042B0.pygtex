@@ -1,0 +1,34 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYG{c+c1}{\PYGZsh{} \PYGZhy{}*\PYGZhy{} coding: UTF\PYGZhy{}8 \PYGZhy{}*\PYGZhy{}}
+\PYG{c+c1}{\PYGZsh{} Autor: Rafael Viana}
+
+\PYG{c+c1}{\PYGZsh{} esse dicionario e simples porém muito bom para guardar conjunto}
+\PYG{c+c1}{\PYGZsh{} de chave valores}
+
+\PYG{k}{print} \PYG{l+s+s2}{\PYGZdq{}Exemplo 1\PYGZdq{}}
+\PYG{c+c1}{\PYGZsh{} cria um dicionario utilizando chave valor dentro de \PYGZob{} \PYGZcb{}}
+\PYG{n}{DicionarioDelinguagens} \PYG{o}{=} \PYG{p}{\PYGZob{}}\PYG{l+s+s1}{\PYGZsq{}angular\PYGZsq{}}\PYG{p}{:}\PYG{l+s+s1}{\PYGZsq{}Angular é um framework da google\PYGZsq{}}\PYG{p}{,}
+                          \PYG{l+s+s1}{\PYGZsq{}react\PYGZsq{}}\PYG{p}{:}\PYG{l+s+s1}{\PYGZsq{}React é um framework do facebook\PYGZsq{}}\PYG{p}{\PYGZcb{}}
+
+\PYG{c+c1}{\PYGZsh{}imprimir dicionario inteiro}
+\PYG{k}{print} \PYG{n}{DicionarioDelinguagens}
+
+\PYG{c+c1}{\PYGZsh{} imprimi apenas as chaves angular e react}
+\PYG{k}{print} \PYG{n}{DicionarioDelinguagens}\PYG{o}{.}\PYG{n}{keys}\PYG{p}{()}
+\PYG{c+c1}{\PYGZsh{}ordenar dicionario, porem temos que guardar uma lista do dicionario}
+\PYG{k}{print} \PYG{l+s+s2}{\PYGZdq{}Ordenar Lista de Keys\PYGZdq{}}
+\PYG{n}{lista} \PYG{o}{=} \PYG{n}{DicionarioDelinguagens}\PYG{o}{.}\PYG{n}{keys}\PYG{p}{()}
+\PYG{n}{lista}\PYG{o}{.}\PYG{n}{sort}\PYG{p}{()}
+\PYG{k}{print} \PYG{n}{lista}
+\PYG{c+c1}{\PYGZsh{} Para verificar a existência de uma chave, utilize o método has\PYGZus{}key()}
+\PYG{k}{print} \PYG{l+s+s2}{\PYGZdq{}Existe Angular no Dicionario: \PYGZdq{}}\PYG{o}{+}\PYGZbs{}
+      \PYG{n+nb}{str}\PYG{p}{(}\PYG{n}{DicionarioDelinguagens}\PYG{o}{.}\PYG{n}{has\PYGZus{}key}\PYG{p}{(}\PYG{l+s+s2}{\PYGZdq{}angular\PYGZdq{}}\PYG{p}{))}
+
+
+\PYG{k}{print} \PYG{l+s+s2}{\PYGZdq{}}\PYG{l+s+se}{\PYGZbs{}n}\PYG{l+s+s2}{Exemplo 2\PYGZdq{}}
+\PYG{c+c1}{\PYGZsh{} outra forma de declarar com dict o dicionario}
+\PYG{n}{DicionarioDelinguagens2} \PYG{o}{=} \PYG{n+nb}{dict}\PYG{p}{([(}\PYG{l+s+s1}{\PYGZsq{}angular\PYGZsq{}}\PYG{p}{,} \PYG{l+s+s1}{\PYGZsq{}Angular é google\PYGZsq{}}\PYG{p}{),}
+                 \PYG{p}{(}\PYG{l+s+s1}{\PYGZsq{}React\PYGZsq{}}\PYG{p}{,} \PYG{l+s+s1}{\PYGZsq{}React é um framework do facebook\PYGZsq{}}\PYG{p}{)])}
+
+\PYG{k}{print} \PYG{n}{DicionarioDelinguagens2}
+\end{Verbatim}

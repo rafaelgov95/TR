@@ -1,0 +1,15 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYG{c+c1}{\PYGZsh{} \PYGZhy{}*\PYGZhy{} coding: UTF\PYGZhy{}8 \PYGZhy{}*\PYGZhy{}}
+\PYG{c+c1}{\PYGZsh{} Autor: Rafael Viana}
+
+\PYG{c+c1}{\PYGZsh{} craindo Lista,}
+\PYG{n}{a} \PYG{o}{=} \PYG{p}{[}\PYG{l+s+s1}{\PYGZsq{}Python\PYGZsq{}}\PYG{p}{,}\PYG{l+s+s1}{\PYGZsq{}JavaScript\PYGZsq{}}\PYG{p}{,} \PYG{l+s+s1}{\PYGZsq{}NodeJs\PYGZsq{}}\PYG{p}{,}\PYG{l+s+s2}{\PYGZdq{}AngularX\PYGZdq{}}\PYG{p}{,} \PYG{l+s+s2}{\PYGZdq{}C\PYGZsh{}\PYGZdq{}}\PYG{p}{,}\PYG{l+s+s2}{\PYGZdq{}C++\PYGZdq{}}\PYG{p}{,}\PYG{l+s+s2}{\PYGZdq{}C\PYGZdq{}}\PYG{p}{,}\PYG{l+s+s2}{\PYGZdq{}Perl\PYGZdq{}}\PYG{p}{]}
+\PYG{c+c1}{\PYGZsh{}imprimir sem ordenar}
+\PYG{k}{print} \PYG{n}{a}
+\PYG{c+c1}{\PYGZsh{} ordenando lista}
+\PYG{n}{a}\PYG{o}{.}\PYG{n}{sort}\PYG{p}{()}
+\PYG{c+c1}{\PYGZsh{}imprimir lista}
+\PYG{k}{print} \PYG{n}{a}
+\PYG{c+c1}{\PYGZsh{}remover item da lista}
+\PYG{n}{a}\PYG{o}{.}\PYG{n}{remove}\PYG{p}{(}\PYG{l+s+s2}{\PYGZdq{}C\PYGZsh{}\PYGZdq{}}\PYG{p}{)}
+\end{Verbatim}

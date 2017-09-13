@@ -1,0 +1,20 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYG{c+c1}{\PYGZsh{} \PYGZhy{}*\PYGZhy{} coding: UTF\PYGZhy{}8 \PYGZhy{}*\PYGZhy{}}
+\PYG{c+c1}{\PYGZsh{} Autor: Rafael Viana}
+
+\PYG{k+kn}{import} \PYG{n+nn}{ModulosPythons.Servicos}
+
+\PYG{c+c1}{\PYGZsh{} Exemplo \PYGZhy{}9}
+
+\PYG{c+c1}{\PYGZsh{} Objetivo: Esse exemplo tem como objetivo demostrar a}
+\PYG{c+c1}{\PYGZsh{} utilização de um modulo.}
+\PYG{c+c1}{\PYGZsh{} Foi criado um Pacote de serviços diversos que}
+\PYG{c+c1}{\PYGZsh{} contém Funções como Data Atual, Preço do Bitcoin atual ,}
+\PYG{c+c1}{\PYGZsh{} Preço do Real Atual e Preço do Dolar Atual atraves de APIs da internet.}
+
+\PYG{c+c1}{\PYGZsh{}Hora Atual}
+\PYG{k}{print}  \PYG{n}{ModulosPythons}\PYG{o}{.}\PYG{n}{Servicos}\PYG{o}{.}\PYG{n}{agora}\PYG{p}{()} \PYG{c+c1}{\PYGZsh{} Esse aqui e um teste}
+\PYG{c+c1}{\PYGZsh{} Valor do bitcoin em uma funcao no modulo :D}
+\PYG{k}{print} \PYG{l+s+s2}{\PYGZdq{}Valor do Bitcoin R\PYGZdl{}:\PYGZsq{}}\PYG{l+s+si}{\PYGZpc{}.4f}\PYG{l+s+s2}{\PYGZsq{} \PYGZdq{}} \PYG{o}{\PYGZpc{}} \PYG{n}{ModulosPythons}\PYG{o}{.}\PYG{n}{Servicos}\PYG{o}{.}\PYG{n}{bitcoin}\PYG{p}{()}
+\PYG{k}{print} \PYG{n}{ModulosPythons}\PYG{o}{.}\PYG{n}{Servicos}\PYG{o}{.}\PYG{n}{Valores}\PYG{p}{()}
+\end{Verbatim}

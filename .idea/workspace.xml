@@ -2,44 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f05a2ca-a239-44fc-9c10-edaff2ecfe12" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/Lista-0/Exercicio-7/Exemplo-7/Set.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python/Lista-0/Exercicio-1/Python.pdf" afterPath="$PROJECT_DIR$/Python/Lista-0/Exercicio-1/Python.pdf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python/Lista-0/Exercicio-1/Python.synctex.gz" afterPath="$PROJECT_DIR$/Python/Lista-0/Exercicio-1/Python.synctex.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python/Lista-0/Exercicio-2/DiferencaEntreCompiladoreInterpletador.pdf" afterPath="$PROJECT_DIR$/Python/Lista-0/Exercicio-2/DiferencaEntreCompiladoreInterpletador.pdf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python/Lista-0/Exercicio-2/DiferencaEntreCompiladoreInterpletador.synctex.gz" afterPath="$PROJECT_DIR$/Python/Lista-0/Exercicio-2/DiferencaEntreCompiladoreInterpletador.synctex.gz" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python/Lista-0/Exercicio-4/StringUnicode.pdf" afterPath="$PROJECT_DIR$/Python/Lista-0/Exercicio-4/StringUnicode.pdf" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python/Lista-0/Exercicio-4/StringUnicode.synctex.gz" afterPath="$PROJECT_DIR$/Python/Lista-0/Exercicio-4/StringUnicode.synctex.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python/Lista-0/Exercicio-7/DicionarioseListas.pdf" afterPath="$PROJECT_DIR$/Python/Lista-0/Exercicio-7/DicionarioseListas.pdf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python/Lista-0/Exercicio-7/DicionarioseListas.synctex.gz" afterPath="$PROJECT_DIR$/Python/Lista-0/Exercicio-7/DicionarioseListas.synctex.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python/Lista-0/Exercicio-9/Modulos.pdf" afterPath="$PROJECT_DIR$/Python/Lista-0/Exercicio-9/Modulos.pdf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python/Lista-0/Exercicio-9/Modulos.synctex.gz" afterPath="$PROJECT_DIR$/Python/Lista-0/Exercicio-9/Modulos.synctex.gz" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python/Lista-0/Exercicio-10/App.py" afterPath="$PROJECT_DIR$/Python/Lista-0/Exercicio-10/App.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python/Lista-0/Exercicio-10/Modelo/Arvore.py" afterPath="$PROJECT_DIR$/Python/Lista-0/Exercicio-10/Modelo/Arvore.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python/Lista-0/Exercicio-10/Modelo/Node.py" afterPath="$PROJECT_DIR$/Python/Lista-0/Exercicio-10/Modelo/Node.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python/Lista-0/Exercicio-11/Arquivo/Arquivo.py" afterPath="$PROJECT_DIR$/Python/Lista-0/Exercicio-11/Arquivo/Arquivo.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python/Lista-0/Exercicio-11/Main.py" afterPath="$PROJECT_DIR$/Python/Lista-0/Exercicio-11/Main.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python/Lista-0/Exercicio-4/Exemplo-4/StringUnicode.py" afterPath="$PROJECT_DIR$/Python/Lista-0/Exercicio-4/Exemplo-4/StringUnicode.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python/Lista-0/Exercicio-4/StringUnicode.aux" afterPath="$PROJECT_DIR$/Python/Lista-0/Exercicio-4/StringUnicode.aux" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python/Lista-0/Exercicio-1/Python.log" afterPath="$PROJECT_DIR$/Python/Lista-0/Exercicio-1/Python.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python/Lista-0/Exercicio-1/Python.tex" afterPath="$PROJECT_DIR$/Python/Lista-0/Exercicio-1/Python.tex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python/Lista-0/Exercicio-11/Numeros" afterPath="$PROJECT_DIR$/Python/Lista-0/Exercicio-11/Numeros" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python/Lista-0/Exercicio-2/DiferencaEntreCompiladoreInterpletador.log" afterPath="$PROJECT_DIR$/Python/Lista-0/Exercicio-2/DiferencaEntreCompiladoreInterpletador.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python/Lista-0/Exercicio-2/DiferencaEntreCompiladoreInterpletador.tex" afterPath="$PROJECT_DIR$/Python/Lista-0/Exercicio-2/DiferencaEntreCompiladoreInterpletador.tex" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python/Lista-0/Exercicio-4/StringUnicode.log" afterPath="$PROJECT_DIR$/Python/Lista-0/Exercicio-4/StringUnicode.log" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python/Lista-0/Exercicio-4/StringUnicode.tex" afterPath="$PROJECT_DIR$/Python/Lista-0/Exercicio-4/StringUnicode.tex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python/Lista-0/Exercicio-5/4.1.If.py" afterPath="$PROJECT_DIR$/Python/Lista-0/Exercicio-5/4.1.If.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python/Lista-0/Exercicio-5/4.2.For.py" afterPath="$PROJECT_DIR$/Python/Lista-0/Exercicio-5/4.2.For.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python/Lista-0/Exercicio-5/4.3.Range.py" afterPath="$PROJECT_DIR$/Python/Lista-0/Exercicio-5/4.3.Range.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python/Lista-0/Exercicio-5/4.4.Break.py" afterPath="$PROJECT_DIR$/Python/Lista-0/Exercicio-5/4.4.Break.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python/Lista-0/Exercicio-5/4.5.Pass.py" afterPath="$PROJECT_DIR$/Python/Lista-0/Exercicio-5/4.5.Pass.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python/Lista-0/Exercicio-5/4.6.Funcoes.py" afterPath="$PROJECT_DIR$/Python/Lista-0/Exercicio-5/4.6.Funcoes.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python/Lista-0/Exercicio-5/4.7.1.Default.py" afterPath="$PROJECT_DIR$/Python/Lista-0/Exercicio-5/4.7.1.Default.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python/Lista-0/Exercicio-5/4.7.2.Chave-Valor.py" afterPath="$PROJECT_DIR$/Python/Lista-0/Exercicio-5/4.7.2.Chave-Valor.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python/Lista-0/Exercicio-5/4.7.3.Listas.py" afterPath="$PROJECT_DIR$/Python/Lista-0/Exercicio-5/4.7.3.Listas.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python/Lista-0/Exercicio-5/4.7.4.Desempacontando.py" afterPath="$PROJECT_DIR$/Python/Lista-0/Exercicio-5/4.7.4.Desempacontando.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python/Lista-0/Exercicio-5/4.7.5.Lambda.py" afterPath="$PROJECT_DIR$/Python/Lista-0/Exercicio-5/4.7.5.Lambda.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python/Lista-0/Exercicio-5/4.7.6.String.py" afterPath="$PROJECT_DIR$/Python/Lista-0/Exercicio-5/4.7.6.String.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python/Lista-0/Exercicio-6/Fila/FilaMain.py" afterPath="$PROJECT_DIR$/Python/Lista-0/Exercicio-6/Fila/FilaMain.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python/Lista-0/Exercicio-6/Lista/ListaMain.py" afterPath="$PROJECT_DIR$/Python/Lista-0/Exercicio-6/Lista/ListaMain.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python/Lista-0/Exercicio-6/Lista/Modulo/Lista.py" afterPath="$PROJECT_DIR$/Python/Lista-0/Exercicio-6/Lista/Modulo/Lista.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python/Lista-0/Exercicio-6/Lista/Modulo/No.py" afterPath="$PROJECT_DIR$/Python/Lista-0/Exercicio-6/Lista/Modulo/No.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python/Lista-0/Exercicio-6/Pilha/Modulo/Pilha.py" afterPath="$PROJECT_DIR$/Python/Lista-0/Exercicio-6/Pilha/Modulo/Pilha.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python/Lista-0/Exercicio-6/Pilha/PilhaMain.py" afterPath="$PROJECT_DIR$/Python/Lista-0/Exercicio-6/Pilha/PilhaMain.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python/Lista-0/Exercicio-7/DicionarioseListas.aux" afterPath="$PROJECT_DIR$/Python/Lista-0/Exercicio-7/DicionarioseListas.aux" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python/Lista-0/Exercicio-7/DicionarioseListas.log" afterPath="$PROJECT_DIR$/Python/Lista-0/Exercicio-7/DicionarioseListas.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python/Lista-0/Exercicio-7/DicionarioseListas.tex" afterPath="$PROJECT_DIR$/Python/Lista-0/Exercicio-7/DicionarioseListas.tex" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python/Lista-0/Exercicio-7/Exemplo-7/Dicionario.py" afterPath="$PROJECT_DIR$/Python/Lista-0/Exercicio-7/Exemplo-7/Dicionario.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python/Lista-0/Exercicio-7/Exemplo-7/Lista.py" afterPath="$PROJECT_DIR$/Python/Lista-0/Exercicio-7/Exemplo-7/Lista.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python/Lista-0/Exercicio-8/5.6.Laco.py" afterPath="$PROJECT_DIR$/Python/Lista-0/Exercicio-8/5.6.Laco.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python/Lista-0/Exercicio-8/5.7.Condicoes.py" afterPath="$PROJECT_DIR$/Python/Lista-0/Exercicio-8/5.7.Condicoes.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python/Lista-0/Exercicio-8/5.8.Sequencias.py" afterPath="$PROJECT_DIR$/Python/Lista-0/Exercicio-8/5.8.Sequencias.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python/Lista-0/Exercicio-7/Exemplo-7/Set.py" afterPath="$PROJECT_DIR$/Python/Lista-0/Exercicio-7/Exemplo-7/Set.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python/Lista-0/Exercicio-9/Exemplo-9/App.py" afterPath="$PROJECT_DIR$/Python/Lista-0/Exercicio-9/Exemplo-9/App.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python/Lista-0/Exercicio-9/Exemplo-9/ModulosPythons/Servicos.py" afterPath="$PROJECT_DIR$/Python/Lista-0/Exercicio-9/Exemplo-9/ModulosPythons/Servicos.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python/Lista-0/Exercicio-9/Modulos.aux" afterPath="$PROJECT_DIR$/Python/Lista-0/Exercicio-9/Modulos.aux" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python/Lista-0/Exercicio-9/Modulos.log" afterPath="$PROJECT_DIR$/Python/Lista-0/Exercicio-9/Modulos.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python/Lista-0/Exercicio-9/Modulos.tex" afterPath="$PROJECT_DIR$/Python/Lista-0/Exercicio-9/Modulos.tex" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -49,13 +39,13 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/TR$App__1_.coverage" NAME="App (1) Coverage Results" MODIFIED="1504821076280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Lista-0/Exercicio-10" />
+    <SUITE FILE_PATH="coverage/TR$App__1_.coverage" NAME="App (1) Coverage Results" MODIFIED="1505320822479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Lista-0/Exercicio-10" />
     <SUITE FILE_PATH="coverage/TR$Pilha.coverage" NAME="Pilha Coverage Results" MODIFIED="1504717055345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Lista-0/Exercicio-6" />
     <SUITE FILE_PATH="coverage/TR$4_7_1_Default.coverage" NAME="4.7.1.Default Coverage Results" MODIFIED="1504187944967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Lista-0/Exercicio-4" />
     <SUITE FILE_PATH="coverage/TR$4_7_5_Lambda.coverage" NAME="4.7.5.Lambda Coverage Results" MODIFIED="1504191732957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Lista-0/Exercicio-4" />
     <SUITE FILE_PATH="coverage/TR$4_7_2_Chave_Valor.coverage" NAME="4.7.2.Chave-Valor Coverage Results" MODIFIED="1504191575042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Lista-0/Exercicio-4" />
     <SUITE FILE_PATH="coverage/TR$Quick2.coverage" NAME="Quick2 Coverage Results" MODIFIED="1504460923861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Lista-0/Exercicio-11" />
-    <SUITE FILE_PATH="coverage/TR$Main.coverage" NAME="Main Coverage Results" MODIFIED="1505158749746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Lista-0/Exercicio-11" />
+    <SUITE FILE_PATH="coverage/TR$Main.coverage" NAME="Main Coverage Results" MODIFIED="1505319705278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Lista-0/Exercicio-11" />
     <SUITE FILE_PATH="coverage/TR$PilhaMain.coverage" NAME="PilhaMain Coverage Results" MODIFIED="1504807277230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Lista-0/Exercicio-6/Pilha" />
     <SUITE FILE_PATH="coverage/TR$4_2_For.coverage" NAME="4.2.For Coverage Results" MODIFIED="1504552877374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Lista-0/Exercicio-4" />
     <SUITE FILE_PATH="coverage/TR$4_7_6_String.coverage" NAME="4.7.6.String Coverage Results" MODIFIED="1504192221828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Lista-0/Exercicio-4" />
@@ -63,6 +53,7 @@
     <SUITE FILE_PATH="coverage/TR$Node.coverage" NAME="Node Coverage Results" MODIFIED="1504819518978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Lista-0/Exercicio-10/Modelo" />
     <SUITE FILE_PATH="coverage/TR$5_8_Sequencias.coverage" NAME="5.8.Sequencias Coverage Results" MODIFIED="1504463789657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Lista-0/Exercicio-8" />
     <SUITE FILE_PATH="coverage/TR$Arquivo.coverage" NAME="Arquivo Coverage Results" MODIFIED="1504811447273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Lista-0/Exercicio-11" />
+    <SUITE FILE_PATH="coverage/TR$Set.coverage" NAME="Set Coverage Results" MODIFIED="1505323126807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Lista-0/Exercicio-7/Exemplo-7" />
     <SUITE FILE_PATH="coverage/TR$No.coverage" NAME="No Coverage Results" MODIFIED="1504797985854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Lista-0/Exercicio-6/Lista" />
     <SUITE FILE_PATH="coverage/TR$Data.coverage" NAME="Data Coverage Results" MODIFIED="1504563239979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Lista-0/Exercicio-9/ModulosPythons" />
     <SUITE FILE_PATH="coverage/TR$Dicionario.coverage" NAME="Dicionario Coverage Results" MODIFIED="1504677099629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Lista-0/Exercicio-7" />
@@ -86,11 +77,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Main.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-11/Main.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="36">
-              <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
               <folding>
                 <element signature="e#47#74#0" expanded="true" />
               </folding>
@@ -108,11 +99,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="5.6.Laco.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-8/5.6.Laco.py">
+      <file leaf-file-name="Quick.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-11/Quick/Quick.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="16" column="27" lean-forward="false" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+            <state relative-caret-position="-553">
+              <caret line="2" column="20" lean-forward="false" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -121,28 +112,48 @@
       <file leaf-file-name="App.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-9/Exemplo-9/App.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="12" column="31" lean-forward="false" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+            <state relative-caret-position="167">
+              <caret line="11" column="60" lean-forward="false" selection-start-line="11" selection-start-column="60" selection-end-line="11" selection-end-column="60" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Servicos.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-9/Exemplo-9/ModulosPythons/Servicos.py">
+      <file leaf-file-name="Dicionario.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-7/Exemplo-7/Dicionario.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+            <state relative-caret-position="239">
+              <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="5.7.Condicoes.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-8/5.7.Condicoes.py">
+      <file leaf-file-name="Set.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-7/Exemplo-7/Set.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="4" column="49" lean-forward="false" selection-start-line="4" selection-start-column="49" selection-end-line="4" selection-end-column="49" />
+            <state relative-caret-position="126">
+              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Lista.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-7/Exemplo-7/Lista.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Modulos.aux" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-9/Modulos.aux">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -151,28 +162,8 @@
       <file leaf-file-name="App.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-10/App.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
+            <state relative-caret-position="108">
               <caret line="18" column="18" lean-forward="false" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="5.8.Sequencias.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-8/5.8.Sequencias.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Arvore.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-10/Modelo/Arvore.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="7" column="22" lean-forward="false" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -181,7 +172,7 @@
       <file leaf-file-name="Node.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-10/Modelo/Node.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
+            <state relative-caret-position="-162">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
               <folding />
             </state>
@@ -210,7 +201,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Python/Lista-0/Exercicio-7/lista.tex" />
         <option value="$PROJECT_DIR$/Python/Lista-0/Exercicio-7/Dicionario.py" />
         <option value="$PROJECT_DIR$/Python/Lista-0/Exercicio-7/Lista.py" />
         <option value="$PROJECT_DIR$/Python/Lista-0/Exercicio-11/Quick.py" />
@@ -227,7 +217,6 @@
         <option value="$PROJECT_DIR$/Python/Lista-0/Exercicio-6/Pilha/Modulo/PilhaMain.py" />
         <option value="$PROJECT_DIR$/Python/Lista-0/Exercicio-11/Arquivo.py" />
         <option value="$PROJECT_DIR$/Python/Lista-0/Exercicio-11/Main/Main.py" />
-        <option value="$PROJECT_DIR$/Python/Lista-0/Exercicio-11/Numeros" />
         <option value="$PROJECT_DIR$/Python/Lista-0/Exercicio-3/Calculadora.py" />
         <option value="$PROJECT_DIR$/Python/Lista-0/Exercicio-4/Exemplo-4/StringUnicode.py" />
         <option value="$PROJECT_DIR$/Python/Lista-0/Exercicio-5/4.1.If.py" />
@@ -248,19 +237,21 @@
         <option value="$PROJECT_DIR$/Python/Lista-0/Exercicio-6/Lista/Modulo/No.py" />
         <option value="$PROJECT_DIR$/Python/Lista-0/Exercicio-6/Pilha/Modulo/Pilha.py" />
         <option value="$PROJECT_DIR$/Python/Lista-0/Exercicio-6/Pilha/PilhaMain.py" />
-        <option value="$PROJECT_DIR$/Python/Lista-0/Exercicio-7/Exemplo-7/Set.py" />
-        <option value="$PROJECT_DIR$/Python/Lista-0/Exercicio-7/Exemplo-7/Lista.py" />
-        <option value="$PROJECT_DIR$/Python/Lista-0/Exercicio-7/Exemplo-7/Dicionario.py" />
         <option value="$PROJECT_DIR$/Python/Lista-0/Exercicio-8/5.7.Condicoes.py" />
         <option value="$PROJECT_DIR$/Python/Lista-0/Exercicio-8/5.8.Sequencias.py" />
         <option value="$PROJECT_DIR$/Python/Lista-0/Exercicio-8/5.6.Laco.py" />
-        <option value="$PROJECT_DIR$/Python/Lista-0/Exercicio-9/Exemplo-9/App.py" />
         <option value="$PROJECT_DIR$/Python/Lista-0/Exercicio-9/Exemplo-9/ModulosPythons/Servicos.py" />
         <option value="$PROJECT_DIR$/Python/Lista-0/Exercicio-10/App.py" />
         <option value="$PROJECT_DIR$/Python/Lista-0/Exercicio-10/Modelo/Arvore.py" />
         <option value="$PROJECT_DIR$/Python/Lista-0/Exercicio-10/Modelo/Node.py" />
         <option value="$PROJECT_DIR$/Python/Lista-0/Exercicio-11/Arquivo/Arquivo.py" />
         <option value="$PROJECT_DIR$/Python/Lista-0/Exercicio-11/Main.py" />
+        <option value="$PROJECT_DIR$/Python/Lista-0/Exercicio-11/Numeros" />
+        <option value="$PROJECT_DIR$/Python/Lista-0/Exercicio-9/Modulos.aux" />
+        <option value="$PROJECT_DIR$/Python/Lista-0/Exercicio-9/Exemplo-9/App.py" />
+        <option value="$PROJECT_DIR$/Python/Lista-0/Exercicio-7/Exemplo-7/Dicionario.py" />
+        <option value="$PROJECT_DIR$/Python/Lista-0/Exercicio-7/Exemplo-7/Set.py" />
+        <option value="$PROJECT_DIR$/Python/Lista-0/Exercicio-7/Exemplo-7/Lista.py" />
       </list>
     </option>
   </component>
@@ -271,10 +262,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="308" />
-    <option name="y" value="257" />
-    <option name="width" value="1350" />
-    <option name="height" value="756" />
+    <option name="x" value="1920" />
+    <option name="width" value="1360" />
+    <option name="height" value="768" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -333,30 +323,6 @@
               <item name="TR" type="462c0819:PsiDirectoryNode" />
               <item name="Python" type="462c0819:PsiDirectoryNode" />
               <item name="Lista-0" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercicio-6" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TR" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TR" type="462c0819:PsiDirectoryNode" />
-              <item name="Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Lista-0" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercicio-6" type="462c0819:PsiDirectoryNode" />
-              <item name="Pilha" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TR" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TR" type="462c0819:PsiDirectoryNode" />
-              <item name="Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Lista-0" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercicio-6" type="462c0819:PsiDirectoryNode" />
-              <item name="Pilha" type="462c0819:PsiDirectoryNode" />
-              <item name="Modulo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TR" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TR" type="462c0819:PsiDirectoryNode" />
-              <item name="Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Lista-0" type="462c0819:PsiDirectoryNode" />
               <item name="Exercicio-7" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -366,73 +332,6 @@
               <item name="Lista-0" type="462c0819:PsiDirectoryNode" />
               <item name="Exercicio-7" type="462c0819:PsiDirectoryNode" />
               <item name="Exemplo-7" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TR" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TR" type="462c0819:PsiDirectoryNode" />
-              <item name="Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Lista-0" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercicio-8" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TR" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TR" type="462c0819:PsiDirectoryNode" />
-              <item name="Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Lista-0" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercicio-9" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TR" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TR" type="462c0819:PsiDirectoryNode" />
-              <item name="Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Lista-0" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercicio-9" type="462c0819:PsiDirectoryNode" />
-              <item name="Exemplo-9" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TR" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TR" type="462c0819:PsiDirectoryNode" />
-              <item name="Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Lista-0" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercicio-9" type="462c0819:PsiDirectoryNode" />
-              <item name="Exemplo-9" type="462c0819:PsiDirectoryNode" />
-              <item name="ModulosPythons" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TR" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TR" type="462c0819:PsiDirectoryNode" />
-              <item name="Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Lista-0" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercicio-10" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TR" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TR" type="462c0819:PsiDirectoryNode" />
-              <item name="Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Lista-0" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercicio-10" type="462c0819:PsiDirectoryNode" />
-              <item name="Modelo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TR" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TR" type="462c0819:PsiDirectoryNode" />
-              <item name="Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Lista-0" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercicio-11" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TR" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TR" type="462c0819:PsiDirectoryNode" />
-              <item name="Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Lista-0" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercicio-11" type="462c0819:PsiDirectoryNode" />
-              <item name="Arquivo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TR" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TR" type="462c0819:PsiDirectoryNode" />
-              <item name="Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Lista-1" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -474,7 +373,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.5.6.Laco">
+  <component name="RunManager" selected="Python.Set">
     <configuration name="5.6.Laco" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -493,38 +392,20 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="App" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="App (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/Lista-0/Exercicio-9/Exemplo-9" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/Lista-0/Exercicio-10" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="TR" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/Lista-0/Exercicio-9/Exemplo-9/App.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="Calculadora" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/Lista-0/Exercicio-3" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="TR" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/Lista-0/Exercicio-3/Calculadora.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/Lista-0/Exercicio-10/App.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -543,6 +424,24 @@
       <module name="TR" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/Lista-0/Exercicio-11/Main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="Set" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/Lista-0/Exercicio-7/Exemplo-7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="TR" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/Lista-0/Exercicio-7/Exemplo-7/Set.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -586,19 +485,19 @@
     <list size="7">
       <item index="0" class="java.lang.String" itemvalue="LaTeX.lista (1)" />
       <item index="1" class="java.lang.String" itemvalue="LaTeX.lista" />
-      <item index="2" class="java.lang.String" itemvalue="Python.App" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Main" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Calculadora" />
-      <item index="5" class="java.lang.String" itemvalue="Python.StringUnicode" />
-      <item index="6" class="java.lang.String" itemvalue="Python.5.6.Laco" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Main" />
+      <item index="3" class="java.lang.String" itemvalue="Python.StringUnicode" />
+      <item index="4" class="java.lang.String" itemvalue="Python.5.6.Laco" />
+      <item index="5" class="java.lang.String" itemvalue="Python.App (1)" />
+      <item index="6" class="java.lang.String" itemvalue="Python.Set" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.5.6.Laco" />
-        <item index="1" class="java.lang.String" itemvalue="Python.StringUnicode" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Calculadora" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Main" />
-        <item index="4" class="java.lang.String" itemvalue="Python.App" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Set" />
+        <item index="1" class="java.lang.String" itemvalue="Python.App (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Main" />
+        <item index="3" class="java.lang.String" itemvalue="Python.5.6.Laco" />
+        <item index="4" class="java.lang.String" itemvalue="Python.StringUnicode" />
       </list>
     </recent_temporary>
   </component>
@@ -654,16 +553,16 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="308" y="257" width="1920" height="1053" extended-state="6" />
+    <frame x="1920" y="0" width="1360" height="768" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32857144" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.47252747" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33076924" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25480768" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4704" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4816" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36356708" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -778,20 +677,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-1/Python.tex">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-4/StringUnicode.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="57" lean-forward="true" selection-start-line="8" selection-start-column="57" selection-end-line="8" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-4/StringUnicode.aux">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -809,13 +694,6 @@
     <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-6/Lista/__init__.py" />
     <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-6/__init__.py" />
     <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-11/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-11/Arquivo/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-9/Exemplo-9/ModulosPythons/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -835,30 +713,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-11/Quick/Quick.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="20" lean-forward="false" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-11/Numeros">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="60" lean-forward="false" selection-start-line="1" selection-start-column="60" selection-end-line="1" selection-end-column="60" />
           <folding />
         </state>
       </provider>
@@ -1055,30 +909,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-7/Exemplo-7/Lista.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-7/Exemplo-7/Dicionario.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="21" lean-forward="false" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-7/Exemplo-7/Set.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-8/5.7.Condicoes.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
@@ -1111,22 +941,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-9/Exemplo-9/App.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="31" lean-forward="false" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-10/App.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="18" lean-forward="false" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-10/Modelo/Arvore.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
@@ -1135,10 +949,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-10/Modelo/Node.py">
+    <entry file="file://$PROJECT_DIR$/Python/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/Lista-1/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-11/Arquivo/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-11/Numeros">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="36" lean-forward="false" selection-start-line="0" selection-start-column="36" selection-end-line="0" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-11/Quick/Quick.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-553">
+          <caret line="2" column="20" lean-forward="false" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
           <folding />
         </state>
       </provider>
@@ -1154,10 +1000,66 @@
     <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-11/Main.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
-          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding>
             <element signature="e#47#74#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-10/Modelo/Node.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-162">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-10/App.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="18" column="18" lean-forward="false" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-9/Modulos.aux">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-9/Exemplo-9/App.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="11" column="60" lean-forward="false" selection-start-line="11" selection-start-column="60" selection-end-line="11" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-7/Exemplo-7/Dicionario.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-7/Exemplo-7/Set.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-7/Exemplo-7/Lista.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
