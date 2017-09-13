@@ -25,7 +25,7 @@ Quando começamos a programar em python pensamos que a linguagem fará todo o se
 
 A solução é simples, o autor do pacote fornecer um índice explícito do pacote ficando a cargo do autor do pacote manter esta lista atualizada. Neste caso, o comando import pode ajudar pois ele usa a seguinte convenção: se o arquivo \_\_init\_\_.py do pacote define uma lista chamada \_\_all\_\_, então esta lista indica os nomes dos módulos a serem importados quando o comando from pacote import * é acionado. Vale ressaltar que isso é válido apenas no caso onde queremos importar todos os módulos.
 
-Em determinados momentos de nossa aplicação precisamos criar pacotes de modulos para organizar nossa aplicação em Python, para a reutilização do código não é diferente, podemos utilizar um modulo pertecente a um pacote de modulos, e para essa utilização devemos usar o comando \textit{from meu-pacote import modulo}, podemos passar * após o import para importar todos modulos desse pacote.
+Em determinado momento de nossa aplicação precisamos criar pacotes de modulos para organizar a mesma,e assim podermos fazeer a reutilização do código. Podemos utilizar um modulo pertecente a um pacote de modulos, e para essa utilização devemos usar o comando \textit{from meu-pacote import modulo}, podemos passar * após o import para importar todos modulos desse pacote.
 
 
 \inputminted{python}{Exemplo-9/App.py}
