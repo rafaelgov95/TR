@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f05a2ca-a239-44fc-9c10-edaff2ecfe12" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Exercicios/Bluetooth/Scan.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Exercicios/TensorFlow/TensorFlow.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Exercicios/TensorFlow/Documentação-1.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,7 +24,7 @@
     <SUITE FILE_PATH="coverage/TR$4_2_For.coverage" NAME="4.2.For Coverage Results" MODIFIED="1504552877374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Lista-0/Exercicio-4" />
     <SUITE FILE_PATH="coverage/TR$4_7_6_String.coverage" NAME="4.7.6.String Coverage Results" MODIFIED="1504192221828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Lista-0/Exercicio-4" />
     <SUITE FILE_PATH="coverage/TR$5_7_Condicoes.coverage" NAME="5.7.Condicoes Coverage Results" MODIFIED="1504463597402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Lista-0/Exercicio-8" />
-    <SUITE FILE_PATH="coverage/TR$TensorFlow.coverage" NAME="TensorFlow Coverage Results" MODIFIED="1505435209669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercicios/TensorFlow" />
+    <SUITE FILE_PATH="coverage/TR$TensorFlow.coverage" NAME="TensorFlow Coverage Results" MODIFIED="1505743166722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercicios/TensorFlow" />
     <SUITE FILE_PATH="coverage/TR$Node.coverage" NAME="Node Coverage Results" MODIFIED="1504819518978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Lista-0/Exercicio-10/Modelo" />
     <SUITE FILE_PATH="coverage/TR$FilaMain__1_.coverage" NAME="FilaMain (1) Coverage Results" MODIFIED="1505340965342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Listas/Lista/Exercicio-6/Fila" />
     <SUITE FILE_PATH="coverage/TR$5_8_Sequencias.coverage" NAME="5.8.Sequencias Coverage Results" MODIFIED="1504463789657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Lista-0/Exercicio-8" />
@@ -48,6 +47,7 @@
     <SUITE FILE_PATH="coverage/TR$4_4_Break.coverage" NAME="4.4.Break Coverage Results" MODIFIED="1504185242274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Lista-0/Exercicio-4" />
     <SUITE FILE_PATH="coverage/TR$Quick.coverage" NAME="Quick Coverage Results" MODIFIED="1504460094881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Lista-0/Exercicio-11" />
     <SUITE FILE_PATH="coverage/TR$4_5_Pass.coverage" NAME="4.5.Pass Coverage Results" MODIFIED="1504185428453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Lista-0/Exercicio-4" />
+    <SUITE FILE_PATH="coverage/TR$Documentação_1.coverage" NAME="Documentação-1 Coverage Results" MODIFIED="1505745252893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercicios/TensorFlow" />
     <SUITE FILE_PATH="coverage/TR$Lista.coverage" NAME="Lista Coverage Results" MODIFIED="1504809442865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Lista-0/Exercicio-6/Lista/Modulo" />
     <SUITE FILE_PATH="coverage/TR$Arvore.coverage" NAME="Arvore Coverage Results" MODIFIED="1504819125999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Lista-0/Exercicio-10/Modelo" />
     <SUITE FILE_PATH="coverage/TR$ListaMain.coverage" NAME="ListaMain Coverage Results" MODIFIED="1505323799872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Lista-0/Exercicio-6/Lista" />
@@ -78,18 +78,28 @@
       <file leaf-file-name="TensorFlow.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Exercicios/TensorFlow/TensorFlow.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="17" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="17" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Scan.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Documentação-1.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Exercicios/TensorFlow/Documentação-1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="10" column="27" lean-forward="false" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Scan.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Exercicios/Bluetooth/Scan.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="162">
-              <caret line="9" column="36" lean-forward="true" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+              <caret line="9" column="36" lean-forward="false" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -117,7 +127,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Python/Lista-0/Exercicio-9/lista.tex" />
         <option value="$PROJECT_DIR$/Python/Lista-0/Exercicio-6/Fila.py" />
         <option value="$PROJECT_DIR$/Python/Lista-0/Exercicio-6/Pilha.py" />
         <option value="$PROJECT_DIR$/Python/Lista-0/Exercicio-6/Lista.py" />
@@ -168,6 +177,7 @@
         <option value="$PROJECT_DIR$/Aula-II.md" />
         <option value="$PROJECT_DIR$/Exercicios/TensorFlow/TensorFlow.py" />
         <option value="$PROJECT_DIR$/Exercicios/Bluetooth/Scan.py" />
+        <option value="$PROJECT_DIR$/Exercicios/TensorFlow/Documentação-1.py" />
       </list>
     </option>
   </component>
@@ -177,7 +187,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-90" />
     <option name="y" value="130" />
     <option name="width" value="1910" />
@@ -231,6 +241,12 @@
               <item name="TR" type="462c0819:PsiDirectoryNode" />
               <item name="Exercicios" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="TR" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TR" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercicios" type="462c0819:PsiDirectoryNode" />
+              <item name="TensorFlow" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -270,7 +286,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Scan">
+  <component name="RunManager" selected="Python.Documentação-1">
+    <configuration name="Documentação-1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercicios/TensorFlow" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="TR" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicios/TensorFlow/Documentação-1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <configuration name="FilaMain (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -303,24 +337,6 @@
       <module name="TR" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/Lista-0/Exercicio-6/Fila/FilaMain.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="ListaMain" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/Lista-0/Exercicio-6/Lista" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="TR" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/Lista-0/Exercicio-6/Lista/ListaMain.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -382,19 +398,19 @@
     <list size="7">
       <item index="0" class="java.lang.String" itemvalue="LaTeX.lista (1)" />
       <item index="1" class="java.lang.String" itemvalue="LaTeX.lista" />
-      <item index="2" class="java.lang.String" itemvalue="Python.ListaMain" />
-      <item index="3" class="java.lang.String" itemvalue="Python.FilaMain" />
-      <item index="4" class="java.lang.String" itemvalue="Python.FilaMain (1)" />
-      <item index="5" class="java.lang.String" itemvalue="Python.TensorFlow" />
-      <item index="6" class="java.lang.String" itemvalue="Python.Scan" />
+      <item index="2" class="java.lang.String" itemvalue="Python.FilaMain" />
+      <item index="3" class="java.lang.String" itemvalue="Python.FilaMain (1)" />
+      <item index="4" class="java.lang.String" itemvalue="Python.TensorFlow" />
+      <item index="5" class="java.lang.String" itemvalue="Python.Scan" />
+      <item index="6" class="java.lang.String" itemvalue="Python.Documentação-1" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Scan" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Documentação-1" />
         <item index="1" class="java.lang.String" itemvalue="Python.TensorFlow" />
-        <item index="2" class="java.lang.String" itemvalue="Python.FilaMain (1)" />
-        <item index="3" class="java.lang.String" itemvalue="Python.FilaMain" />
-        <item index="4" class="java.lang.String" itemvalue="Python.ListaMain" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Scan" />
+        <item index="3" class="java.lang.String" itemvalue="Python.FilaMain (1)" />
+        <item index="4" class="java.lang.String" itemvalue="Python.FilaMain" />
       </list>
     </recent_temporary>
   </component>
@@ -450,16 +466,16 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-90" y="130" width="1910" height="789" extended-state="0" />
+    <frame x="0" y="27" width="1920" height="1053" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25349087" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25213677" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32857144" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6625387" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4010989" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46813187" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -574,7 +590,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-11/__init__.py" />
     <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-9/Exemplo-9/ModulosPythons/__init__.py" />
     <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-6/Lista/Modulo/__init__.py" />
     <entry file="file://$PROJECT_DIR$/Python/Lista-0/Exercicio-11/Quick/__init__.py" />
@@ -637,18 +652,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercicios/TensorFlow/TensorFlow.py">
+    <entry file="file://$PROJECT_DIR$/Exercicios/Bluetooth/Scan.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <caret line="9" column="36" lean-forward="false" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercicios/Bluetooth/Scan.py">
+    <entry file="file://$PROJECT_DIR$/Exercicios/TensorFlow/TensorFlow.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="36" lean-forward="true" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+        <state relative-caret-position="0">
+          <caret line="0" column="17" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercicios/TensorFlow/Documentação-1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="27" lean-forward="false" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
           <folding />
         </state>
       </provider>
