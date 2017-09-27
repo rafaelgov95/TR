@@ -12,7 +12,8 @@ import ModulosPythons.Servicos
 # Preço do Real Atual e Preço do Dolar Atual atraves de APIs da internet.
 
 #Hora Atual
-print  ModulosPythons.Servicos.agora() # Esse aqui e um teste
+# print  ModulosPythons.Servicos.agora() # Esse aqui e um teste
 # Valor do bitcoin em uma funcao no modulo :D
-print "Valor do Bitcoin R$:'%.4f' " % ModulosPythons.Servicos.bitcoin()
-print ModulosPythons.Servicos.Valores()
+# print "Valor do Bitcoin R$:'%.4f' " % ModulosPythons.Servicos.bitcoin()
+print ModulosPythons.Servicos.cep('79400000')
+# print ModulosPythons.Servicos.cep()
