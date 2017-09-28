@@ -3,11 +3,19 @@
  * Copyright 2013-2017 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-clean-blog/blob/master/LICENSE)
  */
+ 
  body {
     font-size: 20px;
     color: #333333;
     font-family: 'Lora', 'Times New Roman', serif; }
-  
+div.h1{ 
+  float:right;
+  width:100px; 
+}
+div.p{ 
+  float:right;
+  width:100px; 
+}
   p {
     line-height: 1.5;
     margin: 30px 0; }

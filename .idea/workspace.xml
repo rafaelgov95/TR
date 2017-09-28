@@ -2,17 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f05a2ca-a239-44fc-9c10-edaff2ecfe12" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Exercicios/Servidor-Rest/Rest-Full.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Exercicios/TensorFlow/Aula-I/Hello-Word.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Exercicios/TensorFlow/Aula-II/Iris.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Exercicios/TensorFlow/Aula-II/iris" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Exercicios/TensorFlow/Aula-III/Classificador.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Exercicios/TensorFlow/TensorFlow.py" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/TR.iml" afterPath="$PROJECT_DIR$/.idea/TR.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Exercicios/Servidor-Rest/Correios/front-end/src/assets/img/back.png" afterPath="$PROJECT_DIR$/Exercicios/Servidor-Rest/Correios/front-end/src/assets/img/back.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Listas/Lista/Exercicio-9/Exemplo-9/App.py" afterPath="$PROJECT_DIR$/Listas/Lista/Exercicio-9/Exemplo-9/App.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Listas/Lista/Exercicio-9/Exemplo-9/ModulosPythons/Servicos.py" afterPath="$PROJECT_DIR$/Listas/Lista/Exercicio-9/Exemplo-9/ModulosPythons/Servicos.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Exercicios/Servidor-Rest/Correios/front-end/src/app/blog/blog.component.html" afterPath="$PROJECT_DIR$/Exercicios/Servidor-Rest/Correios/front-end/src/app/blog/blog.component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Exercicios/Servidor-Rest/Correios/front-end/src/app/blog/blog.component.ts" afterPath="$PROJECT_DIR$/Exercicios/Servidor-Rest/Correios/front-end/src/app/blog/blog.component.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Exercicios/Servidor-Rest/Correios/front-end/src/app/shared/components/header/header.component.html" afterPath="$PROJECT_DIR$/Exercicios/Servidor-Rest/Correios/front-end/src/app/shared/components/header/header.component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Exercicios/Servidor-Rest/Correios/front-end/src/app/shared/components/header/header.component.scss" afterPath="$PROJECT_DIR$/Exercicios/Servidor-Rest/Correios/front-end/src/app/shared/components/header/header.component.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Exercicios/Servidor-Rest/Correios/front-end/src/index.html" afterPath="$PROJECT_DIR$/Exercicios/Servidor-Rest/Correios/front-end/src/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.idea/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -81,8 +77,8 @@
       <file leaf-file-name="Rest-Full.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Exercicios/Servidor-Rest/Rest-Full.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1310">
-              <caret line="99" column="13" lean-forward="false" selection-start-line="99" selection-start-column="13" selection-end-line="99" selection-end-column="13" />
+            <state relative-caret-position="494">
+              <caret line="77" column="12" lean-forward="false" selection-start-line="77" selection-start-column="12" selection-end-line="77" selection-end-column="12" />
               <folding>
                 <element signature="e#0#72#0" expanded="true" />
               </folding>
@@ -256,6 +252,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/Exercicios/Servidor-Rest/Correios/back-end/node_modules" />
+    <handled-path value="$PROJECT_DIR$/Exercicios/Servidor-Rest/Correios/front-end/node_modules" />
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="300" />
     <option name="y" value="104" />
@@ -297,6 +297,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -320,7 +321,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -575,12 +575,11 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32857144" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.072527476" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.072527476" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4054945" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4059829" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4155983" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42637363" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -592,6 +591,7 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -846,8 +846,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Exercicios/Servidor-Rest/Rest-Full.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1310">
-          <caret line="99" column="13" lean-forward="false" selection-start-line="99" selection-start-column="13" selection-end-line="99" selection-end-column="13" />
+        <state relative-caret-position="494">
+          <caret line="77" column="12" lean-forward="false" selection-start-line="77" selection-start-column="12" selection-end-line="77" selection-end-column="12" />
           <folding>
             <element signature="e#0#72#0" expanded="true" />
           </folding>

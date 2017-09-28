@@ -1,3 +1,4 @@
+import { Buscas } from './shared/services/buscas/Buscas';
 import { MaterialModule } from '@angular/material';
 import { ToastsManager } from 'ng2-toastr/ng2-toastr';
 import { CustomOption } from './shared/components/toast/ng2-toast-config';
@@ -27,7 +28,7 @@ import { AppComponent } from './app.component';
     ReactiveFormsModule,
   ], exports: [
     BrowserAnimationsModule ],
-  providers: [AuthGuard],
+  providers: [AuthGuard,Buscas],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
