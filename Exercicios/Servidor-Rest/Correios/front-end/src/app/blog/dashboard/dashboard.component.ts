@@ -27,6 +27,7 @@ export class DashboardComponent {
 
    buscacep() {
     this.buscas.getCEP(this.cep).subscribe(data => {
+      console.log(data)
       this.resultCEP = new Usuario(data.cep,data.logradouro,data.complemento,data.bairro,data.localidade,data.uf,data.unidade,data.ibge,data.gia)
     }, err => console.log("Erro"))
 

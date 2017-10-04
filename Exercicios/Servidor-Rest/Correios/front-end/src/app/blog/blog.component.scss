@@ -177,7 +177,7 @@ header.masthead {
       font-weight: 300;
       line-height: 1.1;
       display: block;
-      margin: 10px 0 0;
+      margin: 1px 0 0;
       font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
     @media only screen and (min-width: 768px) {
       header.masthead .page-heading h1,
@@ -192,7 +192,7 @@ header.masthead {
   header.masthead .post-heading .subheading {
     font-size: 24px;
     font-weight: 600;
-    margin: 10px 0 30px;
+    margin: 5px 0 5px;
     font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
   header.masthead .post-heading .meta {
     font-size: 20px;
@@ -214,7 +214,7 @@ header.masthead {
     color: #0085A1; }
   .post-preview > a > .post-title {
     font-size: 30px;
-    margin-top: 30px;
+    margin-top: 20px;
     margin-bottom: 10px; }
   .post-preview > a > .post-subtitle {
     font-weight: 300;
