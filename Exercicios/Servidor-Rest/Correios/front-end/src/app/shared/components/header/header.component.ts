@@ -1,6 +1,5 @@
 import { AlertService } from './../../services/alert.service';
 import { LoginService } from './../../services/login/LoginService.service';
-import { Login } from './../../models/login';
 import { ActivatedRoute, Router } from '@angular/router';
 import { FormBuilder, Validators } from '@angular/forms';
 
@@ -19,7 +18,7 @@ export class HeaderComponent implements OnInit {
   alert = true;
   returnUrl: string;
   UserForm: FormGroup;
-  user: Login;
+  // user: Login;
   nome: String;
   submitted = false;
   logado = true;
@@ -30,7 +29,7 @@ export class HeaderComponent implements OnInit {
     private loginService: LoginService
 
   ) {
-    this.user = new Login('', '', '');
+    // this.user = new Login('', '', '');
     if (localStorage.getItem('currentUser')) {
       this.nome = JSON.parse(localStorage.getItem('currentUser'))['nome']
       console.log(this.nome)
@@ -42,7 +41,7 @@ export class HeaderComponent implements OnInit {
 
   ngOnInit(): void {
 
-    this.buildForm();
+    // this.buildForm();
     // this.alertService.getMessage();
     // reset login status
     this.loginService.logout();
@@ -51,25 +50,25 @@ export class HeaderComponent implements OnInit {
     this.returnUrl = this.route.snapshot.queryParams['returnUrl'] || '/';
   }
 
-  buildForm(): void {
-    this.UserForm = this.fb.group({
-      'email': [this.user.email, [
-        Validators.required,
-        Validators.minLength(4),
-        Validators.pattern(this.emailRegex)
-      ]
-      ],
-      'senha': [this.user.senha, [
-        Validators.required,
-        Validators.minLength(4)
-      ]]
-    });
+  // buildForm(): void {
+  //   this.UserForm = this.fb.group({
+  //     'email': [this.user.email, [
+  //       Validators.required,
+  //       Validators.minLength(4),
+  //       Validators.pattern(this.emailRegex)
+  //     ]
+  //     ],
+  //     'senha': [this.user.senha, [
+  //       Validators.required,
+  //       Validators.minLength(4)
+  //     ]]
+  //   });
 
-    this.UserForm.valueChanges
-      .subscribe(data => this.onValueChanged(data));
+  //   this.UserForm.valueChanges
+  //     .subscribe(data => this.onValueChanged(data));
 
-    this.onValueChanged();
-  }
+  //   this.onValueChanged();
+  // }
 
   onValueChanged(data?: any) {
     if (!this.UserForm) { return; }

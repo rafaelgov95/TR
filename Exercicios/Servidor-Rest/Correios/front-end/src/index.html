@@ -7,6 +7,55 @@
     <base href="/">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="../node_modules/autopulous-angular2-soap/vendor/autopulous-xdom/xdom.js"></script>
+    <script src="../node_modules/autopulous-angular2-soap/vendor/autopulous-xdom2jso/xdom2jso.js"></script>
+   <script>
+        function soapRequest() {
+            var str = "<soapenv:Envelope xmlns:soapenv=\"http://schemas.xmlsoap.org/soap/envelope/\" xmlns:res=\"http://resource.webservice.correios.com.br/\">\n"
+                + "   <soapenv:Header/>\n"
+                + "   <soapenv:Body>\n"
+                + "      <res:buscaEventos>\n"
+                + "         <usuario>ECT</usuario>\n"
+                + "         <senha>SRO</senha>\n"
+                + "         <tipo>L</tipo>\n"
+                + "         <resultado>T</resultado>\n"
+                + "         <lingua>101</lingua>\n"
+                + "          <objetos>RY907728402SG</objetos>\n"
+                + "      </res:buscaEventos>\n"
+                + "    </soapenv:Body>\n"
+                + "</soapenv:Envelope>";
+
+            function createCORSRequest(method, url) {
+                var xhr = new XMLHttpRequest();
+                if ("withCredentials" in xhr) {
+                    xhr.open(method, url, false);
+                } else if (typeof XDomainRequest != "undefined") {
+                    alert
+                    xhr = new XDomainRequest();
+                    xhr.open(method, url);
+                } else {
+                    console.log("CORS not supported");
+                    alert("CORS not supported");
+                    xhr = null;
+                }
+                return xhr;
+            }
+            var xhr = createCORSRequest("POST", "http://webservice.correios.com.br:80/service/rastro");
+            if (!xhr) {
+                console.log("XHR issue");
+                return;
+            }
+
+            xhr.onload = function () {
+                var results = xhr.responseText;
+                console.log(results);
+            }
+
+            xhr.setRequestHeader('Content-Type', 'text/xml');
+            xhr.send(str);
+        }
+
+    </script>
 </head>
 <body>
     <app-root>

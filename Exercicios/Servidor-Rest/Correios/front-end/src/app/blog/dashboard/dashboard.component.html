@@ -22,30 +22,30 @@
         <thead class="thead-inverse">
             <tr>
 
-                    <th *ngIf="resultCEP.cep != ''"  scope="row">
-                           #
-                        </th>
+                <th *ngIf="resultCEP.cep != ''" scope="row">
+                    #
+                </th>
                 <th *ngIf="resultCEP.cep != ''">
                     CEP
                 </th>
 
                 <th *ngIf="resultCEP.localidade != ''">
                     Cidade
-                 </th>
+                </th>
                 <th *ngIf="resultCEP.logradouro  != ''">
                     Logradouro
                 </th>
                 <th *ngIf="resultCEP.complemento != ''">
-                     Complemento
+                    Complemento
                 </th>
                 <th *ngIf="resultCEP.bairro != ''">
-                     Bairro
+                    Bairro
                 </th>
                 <th *ngIf="resultCEP.uf != ''">
                     UF
                 </th>
                 <th *ngIf="resultCEP.unidade != ''">
-                     Unidade
+                    Unidade
                 </th>
 
                 <th *ngIf="resultCEP.ibge != ''">
@@ -79,5 +79,53 @@
         </tbody>
     </table>
 
+    <script>
+        function soapRequest() {
+            var str = "<soapenv:Envelope xmlns:soapenv=\"http://schemas.xmlsoap.org/soap/envelope/\" xmlns:res=\"http://resource.webservice.correios.com.br/\">\n"
+                + "   <soapenv:Header/>\n"
+                + "   <soapenv:Body>\n"
+                + "      <res:buscaEventos>\n"
+                + "         <usuario>ECT</usuario>\n"
+                + "         <senha>SRO</senha>\n"
+                + "         <tipo>L</tipo>\n"
+                + "         <resultado>T</resultado>\n"
+                + "         <lingua>101</lingua>\n"
+                + "          <objetos>RY907728402SG</objetos>\n"
+                + "      </res:buscaEventos>\n"
+                + "    </soapenv:Body>\n"
+                + "</soapenv:Envelope>";
 
+            function createCORSRequest(method, url) {
+                var xhr = new XMLHttpRequest();
+                if ("withCredentials" in xhr) {
+                    xhr.open(method, url, false);
+                } else if (typeof XDomainRequest != "undefined") {
+                    alert
+                    xhr = new XDomainRequest();
+                    xhr.open(method, url);
+                } else {
+                    console.log("CORS not supported");
+                    alert("CORS not supported");
+                    xhr = null;
+                }
+                return xhr;
+            }
+            var xhr = createCORSRequest("POST", "http://webservice.correios.com.br:80/service/rastro");
+            if (!xhr) {
+                console.log("XHR issue");
+                return;
+            }
+
+            xhr.onload = function () {
+                var results = xhr.responseText;
+                console.log(results);
+            }
+
+            xhr.setRequestHeader('Content-Type', 'text/xml');
+            xhr.send(str);
+        }
+
+    </script>
+
+<input type="button" value="SOAP REQUEST" onclick="soapRequest()">
 </div>

@@ -1,5 +1,4 @@
 import { Observable } from 'rxjs';
-import { Login } from './../../models/login';
 import { Injectable } from '@angular/core';
 import { Http, Headers, RequestOptions, Response } from '@angular/http';
 
@@ -36,9 +35,9 @@ export class LoginService {
             });
     }
 
-    create(user: Login) {
-        return this.http.post(this.Url+'api/login/save', user).map((response: Response) => response.json());
-    }
+    // create(user: Login) {
+    //     return this.http.post(this.Url+'api/login/save', user).map((response: Response) => response.json());
+    // }
 
 
     logout() {

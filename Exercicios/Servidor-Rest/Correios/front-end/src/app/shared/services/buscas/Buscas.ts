@@ -24,8 +24,7 @@ export class Buscas {
 
   getCEP(cep: string): Observable<Usuario> {
     let options = new RequestOptions({ headers: this.headers });
-    return this.http.get('https://viacep.com.br/ws/'+cep+'/json/',options)
-      .map((response: Response) => response.json());
+    return this.http.get('https://viacep.com.br/ws/'+cep+'/json/',options).map((response: Response) => response.json());
   }
 
  
